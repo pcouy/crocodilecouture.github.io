@@ -13,6 +13,7 @@ author:      "Aurore Bourquelot"
 
 prose:
   rooturl: ''
+  siteurl: 'http://crocodile-couture.fr/'
   media: 'media'
   ignore: ["_includes", "_layouts", "_sass", "assets", ".gitignore", "CNAME", "Gemfile", "_config.yml", "favicon.ico", "favicon.svg", "index.md"]
   metadata:
