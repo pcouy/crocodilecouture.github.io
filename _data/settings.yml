@@ -2,9 +2,11 @@
 # General Site Settings
 
 menu:
-- {name: 'Créations', url: ''}
-- {name: 'À propos',    url: 'about'}
-- {name: 'Contact',  url: 'contact'}
+- {name: 'Créations',    url: ''}
+- {name: 'Présentation', url: 'presentation'}
+- {name: 'Commander',    url: 'commander'}
+- {name: 'FAQ',          url: 'faq'}
+- {name: 'Contact',      url: 'contact'}
 
 #-------------------------------
 # Projects Section
