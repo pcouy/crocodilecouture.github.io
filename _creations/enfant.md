@@ -1,6 +1,6 @@
 ---
 layout: creation
 miniature: arriere
-published: false
+published: true
 title: Banane enfant
 ---
