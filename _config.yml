@@ -30,6 +30,18 @@ prose:
           element: "text"
           label: "Nom du modèle"
           value: ""
+      - name: "miniature"
+        field:
+          element: "select"
+          label: "Image de couverture"
+          value: "ouverte"
+          options:
+            - name: "De face"
+              value: "face"
+            - name: "Ouverte"
+              value: "ouverte"
+            - name: "De derrière"
+              value: "arriere"
     pages:
       - name: "layout"
         field:
