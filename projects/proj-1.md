@@ -5,4 +5,6 @@ title: 'Présentation'
 
 Réalisation de sacs banane sur commande.
 
-![Choix de tissus]({{ site.github.url}}/assets/img/projects/proj-1/tissus.jpg)
+![Choix de tissus]({{ site.github.url}}/media/creations/licorne/face.webp)
+![Choix de tissus]({{ site.github.url}}/media/creations/licorne/ouverte.webp)
+![Choix de tissus]({{ site.github.url}}/media/creations/licorne/arriere.webp)

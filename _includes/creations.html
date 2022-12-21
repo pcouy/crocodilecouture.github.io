@@ -1,0 +1,14 @@
+<section>
+  <div class="project-container">
+    {% for creation in site.creations %}
+      <a href="{{ creation.url }}">
+        <div class="project-unit" data-folder="{{ project.url }}" >
+	  <img src="{{ creation.url }}/{% if creation.miniature %}{{creation.miniature}}{% else %}ouverte{% endif %}.webp">
+          <div class="project-overlay">
+            <strong>{{ creation.title }} <i class="fa fa-arrow-right" aria-hidden="true"></i></strong>
+          </div>
+        </div>
+      </a>
+    {% endfor %}
+  </div>
+</section>

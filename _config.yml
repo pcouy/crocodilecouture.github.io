@@ -10,12 +10,26 @@ plugins:   [jekyll-sitemap, jekyll-feed,  jekyll-seo-tag]
 title:		   "Crocodile Couture"
 description: "Vente de sacs banane sur mesure"
 author:      "Aurore Bourquelot"
+  
+collections:
+  creations:
+    output: true
 
 prose:
   rooturl: ''
   media: 'media'
   ignore: ["_includes", "_layouts", "_sass", "assets", ".gitignore", "CNAME", "Gemfile", "_config.yml", "favicon.ico", "favicon.svg", "index.md"]
   metadata:
+    _creations:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "creation"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Nom du modèle"
+          value: ""
     pages:
       - name: "layout"
         field:
