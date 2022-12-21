@@ -1,6 +1,6 @@
 ---
 layout: creation
 miniature: ouverte
-published: false
+published: true
 title: Banane à fleurs
 ---
