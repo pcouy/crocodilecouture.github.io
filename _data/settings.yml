@@ -17,7 +17,7 @@ projects:
 #-------------------------------
 # Contact Section
 
-footer: "Jolis sacs banane, fabriqués en France, tout à la main"
+footer: "Jolis sacs banane, fabriqués sur mesure, tout à la main"
 social:
 - {icon: 'facebook',   link: 'https://facebook.com/crocodile.couture'}
 - {icon: 'instagram', link: 'https://instagram.com/crocodile.couture'}
