@@ -4,12 +4,18 @@ layout: default
 
 <section>
   <div class="post-container">
-	  <h4 class="project-title">{{ page.title }}</h4>
+    <h4 class="project-title">{{ page.title }}</h4>
     <div class="project-load">
-	    {{ content }}
-	    <img src="{{ page.url }}/face.webp" alt="Vue de face">
-	    <img src="{{ page.url }}/ouverte.webp" alt="Vue ouverte">
-	    <img src="{{ page.url }}/arriere.webp" alt="Vue arrière">
+      {{ content }}
+      <p class="order-now">
+      <a href="mailto:crocodile.couture@gmail.com?subject=Commande de banane - {{ page.title }}">Commander</a>
+      </p>
+      <img src="{{ page.url }}/face.webp" alt="Vue de face">
+      <img src="{{ page.url }}/ouverte.webp" alt="Vue ouverte">
+      <img src="{{ page.url }}/arriere.webp" alt="Vue arrière">
+      <p class="order-now">
+      <a href="mailto:crocodile.couture@gmail.com?subject=Commande de banane - {{ page.title }}">Commander</a>
+      </p>
     </div>
   </div>
 </section>
