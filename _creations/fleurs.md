@@ -2,7 +2,7 @@
 layout: creation
 miniature: ouverte
 published: true
-title: Banane à fleurs
+title: Fleurs Bleues
 date: '2022-12-22 12:59 +0100'
 ---
 Banane n°14
