@@ -1,6 +1,6 @@
 ---
 layout: creation
-title: Banane Licorne
+title: Licornes enchantées
 miniature: face
 published: true
 date: '2022-12-22 12:59 +0100'
