@@ -14,11 +14,12 @@ author:      "Aurore Bourquelot"
 collections:
   creations:
     output: true
+    sort_by: date
 
 prose:
   rooturl: ''
   media: 'media'
-  ignore: ["_includes", "_layouts", "_sass", "assets", ".gitignore", "CNAME", "Gemfile", "_config.yml", "favicon.ico", "favicon.svg", "index.md", "projects", "_posts", "_data", "crocodilecouture.gemspec"]
+  ignore: ["_includes", "_layouts", "_sass", "assets", ".gitignore", "CNAME", "Gemfile", "_config.yml", "favicon.ico", "favicon.svg", "projects", "_posts", "crocodilecouture.gemspec"]
   metadata:
     _creations:
       - name: "layout"

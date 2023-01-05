@@ -11,7 +11,7 @@ $accent: #8F8F71
 $accent-light: adjust-hue(saturate(lighten($accent, 11%), 12.6%), 50)
 $selectionColor: lighten($accent, 20%)
 
-$textColor: #666
+$textColor: #000
 $headlineColor: $rose
 $bgcolor: #F7DADF
 $documentBackgroundColor: #F7DADF
@@ -19,6 +19,11 @@ $documentBackgroundColor: #F7DADF
 @font-face
   font-family: "Politica"
   src: url("/assets/Politica Regular.ttf")
+
+@font-face
+  font-family: "Politica"
+  src: url("/assets/Politica Bold.ttf")
+  font-weight: bold
 
 @import '1-tools/-tools-dir'
 @import '2-base/-base-dir'
