@@ -14,7 +14,6 @@ author:      "Aurore Bourquelot"
 collections:
   creations:
     output: true
-    sort_by: date
 
 prose:
   rooturl: ''

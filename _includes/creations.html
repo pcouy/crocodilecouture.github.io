@@ -1,6 +1,6 @@
 <section>
   <div class="project-container">
-    {% for creation in site.creations|reverse %}
+    {% for creation in site.creations reversed %}
       <a href="{{ creation.url }}">
         <div class="project-unit" data-folder="{{ project.url }}" >
 	  <img src="{{ creation.url }}/{% if creation.miniature %}{{creation.miniature}}{% else %}ouverte{% endif %}.webp">
