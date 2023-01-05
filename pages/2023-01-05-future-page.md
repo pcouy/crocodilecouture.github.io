@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /1312.cof
+permalink: /1312
 published: false
 title: Future Page
 ---
