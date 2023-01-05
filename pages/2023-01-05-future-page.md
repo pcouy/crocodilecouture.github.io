@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /1312
-published: false
+published: true
 title: Future Page
 ---
 ## A New Post
