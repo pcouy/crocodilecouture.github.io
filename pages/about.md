@@ -29,3 +29,9 @@ J’espère que vous apprécierez cette gamme de sacs banane originaux, uniques 
 N’hésitez pas à me contacter pour toute question ou demande spéciale. Je serai très heureuse de vous aider à fabriquer le sac de vos rêves. 
 
 Merci de votre visite et à très bientôt chez Crocodile Couture!
+
+![Crocodile_fond_blanc.png]({{site.baseurl}}/media/Crocodile_fond_blanc.png)
+
+D’où vient ce logo trop mignon? 
+Il a été réalisé par la très talentueuse Marion Risbourg !
+
