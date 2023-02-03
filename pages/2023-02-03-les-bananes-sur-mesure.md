@@ -52,4 +52,3 @@ Alors [viens commander ta banane](mailto:crocodile.couture@gmail.com) !
 N’hésitez pas à [me contacter](mailto:crocodile.couture@gmail.com) pour toute question ou demande spéciale. Je serai très heureuse de vous aider à fabriquer le sac de vos rêves.
 
 Merci de votre visite et à très bientôt chez Crocodile Couture!
-
