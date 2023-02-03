@@ -15,6 +15,6 @@ Pour les commandes sur mesure, regardez ma page **Les bananes sur mesure**, où 
 
 - Règlement : par chèque ou virement bancaire 
 
-- Délais d'expédition : 6 semaines (premières livraisons janvier 2023)
+- Délais d'expédition : 6 semaines 
 
 N’hésitez pas à me contacter si vous avez des questions sur le processus de commande ou si vous avez besoin de plus d’informations. Je suis là pour vous aider à obtenir le sac banane de vos rêves!
