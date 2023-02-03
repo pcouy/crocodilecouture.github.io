@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /
-published: false
+published: true
 title: Politique de protection des données
 ---
 ## Politique de protection des données
