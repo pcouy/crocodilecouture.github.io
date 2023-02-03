@@ -6,4 +6,11 @@ title: Les bananes sur mesure
 ---
 ## Les bananes sur mesure 
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+Bienvenue sur la page des bananes sur mesure.
+
+Un vaste choix de tissus, des possibilités d'assemblage infinies !
+
+Le modèle 
+Je propose 2 modèles, le Moyen et le Mini
+
+Ici, on peut tout faire !
