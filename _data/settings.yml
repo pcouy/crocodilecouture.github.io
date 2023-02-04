@@ -16,7 +16,7 @@ projects:
 #-------------------------------
 # Contact Section
 
-footer: "Jolis sacs banane, fabriqués sur mesure, tout à la main"
+footer: "Jolis sacs banane, fabriqués sur mesure, à la main"
 social:
 - {icon: 'facebook',   link: 'https://facebook.com/crocodile.couture'}
 - {icon: 'instagram', link: 'https://instagram.com/crocodile.couture'}
@@ -30,7 +30,7 @@ social:
 # NOTE: Providing SEO information will make this website more searchable on the internet.
 
 seo:
-  description: "Jolis sacs banane, fabriqués sur mesure, tout à la main. Vente par correspondance d'accessoires de mode réalisés par Aurore Bourquelot, couturière indépendante."
+  description: "Jolis sacs banane, fabriqués sur mesure, à la main. Vente par correspondance d'accessoires de mode réalisés par Aurore Bourquelot, couturière indépendante."
     # rel-author: 'https://plus.google.com/u/0/#'
     # rel-publisher: 'https://plus.google.com/u/0/#'
 
