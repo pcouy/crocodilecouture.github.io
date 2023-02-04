@@ -10,5 +10,13 @@
         {% endfor %}
       </nav>
     </div>
+    <hr>
+    <div class="footer-mentions">
+      <nav>
+        {% for item in site.data.settings.pied %}
+          <a href="{{ item.url }}" target="_blank">{{ item.name }}</a>
+        {% endfor %}
+      </nav>
+    </div>
   </div>
 </footer>

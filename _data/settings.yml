@@ -8,6 +8,9 @@ menu:
 - {name: 'Commander',    url: 'commander'}
 - {name: 'Contact',      url: 'contact'}
 
+pied:
+- {name: 'Contact',      url: 'contact'}
+
 
 #-------------------------------
 # Projects Section
