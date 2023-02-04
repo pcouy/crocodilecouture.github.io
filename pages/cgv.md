@@ -1,6 +1,6 @@
 ---
 layout: page
-title: FAQ
+title: CGV
 permalink: /cgv
 published: true
 ---
