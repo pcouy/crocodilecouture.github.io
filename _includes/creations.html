@@ -5,7 +5,14 @@
         <div class="project-unit" data-folder="{{ project.url }}" >
 	  <img src="{{ creation.url }}/{% if creation.miniature %}{{creation.miniature}}{% else %}ouverte{% endif %}.webp">
           <div class="project-overlay">
-            <strong>{{ creation.title }} <i class="fa fa-arrow-right" aria-hidden="true"></i></strong>
+	    <p>
+              <strong>{{ creation.title }} <i class="fa fa-arrow-right" aria-hidden="true"></i></strong>
+	    </p>
+	    {% if creation.available %}
+	    <p>
+	      <strong class="available">Disponible</strong>
+	    </p>
+	    {% endif %}
           </div>
         </div>
       </a>

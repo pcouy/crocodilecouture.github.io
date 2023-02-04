@@ -35,6 +35,11 @@ prose:
           element: "text"
           label: "Date"
           value: "CURRENT_DATETIME"
+      - name: "available"
+        field:
+          element: "checkbox"
+          label: "Disponible"
+          value: true
       - name: "miniature"
         field:
           element: "select"
