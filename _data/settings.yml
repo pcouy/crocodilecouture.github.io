@@ -6,6 +6,7 @@ menu:
 - {name: 'Présentation', url: 'presentation'}
 - {name: 'Commander',    url: 'commander'}
 - {name: 'Contact',      url: 'contact'}
+- {name: 'Les Bananes Sur Mesure',      url: 'les-bananes-sur-mesure'}
 
 #-------------------------------
 # Projects Section
