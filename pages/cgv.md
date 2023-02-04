@@ -1,7 +1,7 @@
 ---
 layout: page
 title: FAQ
-permalink: /faq
+permalink: /cgv
 published: true
 ---
 # CROCODILE COUTURE - CONDITIONS GENERALES DE VENTES
