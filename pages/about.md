@@ -30,7 +30,7 @@ N’hésitez pas à me contacter pour toute question ou demande spéciale. Je se
 
 Merci de votre visite et à très bientôt chez Crocodile Couture!
 
-![Crocodile.png]({{site.baseurl}}/media/Crocodile.png)
+![Crocodile.png]({{site.baseurl}}/media/Crocodile.png){:class="noborder"}
 
 D’où vient ce logo trop mignon? 
 Il a été réalisé par la très talentueuse Marion Risbourg !
