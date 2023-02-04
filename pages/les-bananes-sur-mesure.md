@@ -12,8 +12,7 @@ Un vaste choix de tissus, des possibilités d'assemblage infinies !
 
 Venez discuter avec [moi](mailto:crocodile.couture@gmail.com) pour préciser votre demande.
 
-**Le modèle **
-
+**Le modèle** 
 Je propose 2 modèles, le Moyen et le Mini
 
 Dimensions : Le Moyen : 30x16x7,5cm ; Le Mini : 20x12x6cm
