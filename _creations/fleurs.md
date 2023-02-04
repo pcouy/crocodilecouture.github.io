@@ -2,6 +2,7 @@
 layout: creation
 miniature: ouverte
 published: true
+available: true
 title: Fleurs Bleues
 date: '2022-12-22 12:59 +0100'
 ---

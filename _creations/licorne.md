@@ -2,6 +2,7 @@
 layout: creation
 title: Licornes enchantées
 miniature: face
+available: true
 published: true
 date: '2022-12-22 12:59 +0100'
 ---

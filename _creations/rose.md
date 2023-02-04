@@ -3,6 +3,7 @@ layout: creation
 title: Fleurs Roses
 miniature: ouverte
 published: true
+available: true
 date: '2022-12-22 13:00 +0100'
 ---
 

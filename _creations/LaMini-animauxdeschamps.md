@@ -2,6 +2,7 @@
 layout: creation
 miniature: arriere
 published: true
+available: true
 title: La Mini - Animaux des champs
 date: '2022-12-21 12:58 +0100'
 ---
