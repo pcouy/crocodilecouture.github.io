@@ -9,7 +9,8 @@ published: true
 
 Pour commander, c'est simple !
 
-- M’envoyer un mail [crocodile.couture@gmail.com](mailto:crocodile.couture@gmail.com) pour me décrire votre demande (modèle existant en vente sur le site ou bien modèle sur mesure spécial pour vous)
+Les commandes se passent **par mail** [crocodile.couture@gmail.com](mailto:crocodile.couture@gmail.com).
+Contactez moi pour me décrire votre demande.
 
 **Les modèles déjà cousus** sont à retrouver sur la page [Mes Créations](https://crocodile-couture.fr/)
 
