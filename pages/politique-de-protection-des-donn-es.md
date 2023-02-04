@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /
+permalink: /politique-de-protection-des-donn-es
 published: true
 title: Politique de protection des données
 ---
