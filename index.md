@@ -1,7 +1,11 @@
 ---
 layout: home
-title: Index
+title: Créations
 published: true
 ---
 
-Les commandes sont ouvertes ! [RDV par mail pour les premières commandes](mailto:crocodile.couture@gmail.com)
+Les commandes sont ouvertes !  
+
+RDV par mail pour les premières commandes [crocodile.couture@gmail.com](mailto:crocodile.couture@gmail.com)
+
+
