@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /1312
+permalink: /cookies
 published: true
 title: Future Page
 ---
