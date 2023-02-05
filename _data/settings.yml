@@ -10,7 +10,9 @@ menu:
 
 pied:
 - {name: 'Contact',      url: 'contact'}
-
+- {name: 'CGV',      url: 'cgv'}
+- {name: 'Cookies',      url: 'cookies'}
+- {name: 'Politique de protection des données',      url: 'politique-de-protection-des-donn-es'}
 
 #-------------------------------
 # Projects Section
