@@ -34,6 +34,8 @@ Dimensions : Le Moyen : 30x16x7,5cm ; Le Mini : 20x12x6cm
 
 ![TissuInt1.jpg]({{site.baseurl}}/media/TissuInt1.jpg)
 
+On peut aussi partir de tes propres tissus, par exemple un chemisier trop petit, une veste usée à certains endroits, et transformer tout ça en sac banane !
+
 
 **Mais aussi**
 
