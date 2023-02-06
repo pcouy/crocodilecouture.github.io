@@ -20,3 +20,8 @@ Une moyenne poche à l’arrière, format passeport, pour garder vos affaires pr
 Dimensions : 30x16x7,5cm
 
 Prix : 90€ TTC
+
+
+
+Attention : Il ne s’agit pas d’un article destiné aux enfants. En effet, les articles pour enfant doivent répondre à des exigences particulières qui ne sont pas remplies ici.
+
