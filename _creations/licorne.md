@@ -15,6 +15,8 @@ Une sangle noire, des boucles coulissantes en métal gris.
 
 Une poche principale, doublée de tissus fleuri.
 
-Une petite poche à l’arrière, format passeport, pour garder vos affaires précieuses tout contre vous.
+Une moyenne poche à l’arrière, format passeport, pour garder vos affaires précieuses tout contre vous.
 
 Dimensions : 30x16x7,5cm
+
+Prix : 90€ TTC
