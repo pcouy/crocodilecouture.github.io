@@ -3,7 +3,7 @@ layout: creation
 date: '2023-03-10 09:38 +0100'
 available: false
 miniature: ouverte
-published: false
+published: true
 title: Laine
 ---
 ## Banane laine tressée
