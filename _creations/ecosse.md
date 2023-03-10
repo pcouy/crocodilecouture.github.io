@@ -3,7 +3,7 @@ layout: creation
 date: '2023-03-10 09:33 +0100'
 available: false
 miniature: ouverte
-published: false
+published: true
 title: Ecosse
 ---
 ## Banane Ecossaise
@@ -25,5 +25,3 @@ Une sangle noire, des boucles coulissantes en métal doré.
 Une poche principale et une moyenne poche à l’arrière, format passeport, pour garder vos affaires précieuses tout contre vous.
 
 Dimensions : 30x16x7,5cm
-
-
