@@ -25,7 +25,3 @@ Une sangle noire, des boucles coulissantes en métal doré.
 Une poche principale et une moyenne poche à l’arrière, format passeport, pour garder vos affaires précieuses tout contre vous.
 
 Dimensions : 30x16x7,5cm
-
-
-
-
