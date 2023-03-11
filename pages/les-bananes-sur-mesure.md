@@ -25,7 +25,8 @@ Dimensions : Le Moyen : 30x16x7,5cm ; Le Mini : 20x12x6cm
 
 ![TissuExt2.jpg]({{site.baseurl}}/media/TissuExt2.jpg)
 
-![TissuExt1.jpg]({{site.baseurl}}/media/TissuExt1.jpg)
+![TissuExt1 (1).jpg]({{site.baseurl}}/media/TissuExt1 (1).jpg)
+
 
 
 **Les tissus intérieurs**
