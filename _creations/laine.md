@@ -2,7 +2,7 @@
 layout: creation
 date: '2023-03-10 09:38 +0100'
 available: false
-miniature: ouverte
+miniature: face
 published: true
 title: Laine
 ---
