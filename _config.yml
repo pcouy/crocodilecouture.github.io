@@ -10,6 +10,13 @@ plugins:   [jekyll-sitemap, jekyll-feed,  jekyll-seo-tag]
 title:		   "Crocodile Couture"
 description: "Vente de sacs banane sur mesure"
 author:      "Aurore Bourquelot"
+facebook:
+  publisher: https://facebook.com/crocodile.couture
+social:
+  name: Crocodile Couture
+  links:
+    - https://instagram.com/crocodile.couture
+    - https://facebook.com/crocodile.couture
   
 collections:
   creations:
