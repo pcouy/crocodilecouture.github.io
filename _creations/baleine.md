@@ -21,7 +21,7 @@ Et les baleines gracieuses,
 Ajoutent une touche de merveilleux.
 
 Un accessoire pratique pour les voyageurs,
-Le sac banane de tissu molletonné,
+Le sac banane de tissu matelassé,
 Avec ses baleines magnifiques,
 Est une invitation à partir explorer.
 
