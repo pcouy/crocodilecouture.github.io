@@ -41,7 +41,8 @@ Ils sont tous destinés à des extérieurs de banane, sauf le 30A qui est pour u
 
 ![TissuInt2.jpg]({{site.baseurl}}/media/TissuInt2.jpg)
 
-![TissuInt1.jpg]({{site.baseurl}}/media/TissuInt1.jpg)
+![TissuInt1 (1).jpg]({{site.baseurl}}/media/TissuInt1 (1).jpg)
+
 
 On peut aussi partir de tes propres tissus, par exemple un chemisier trop petit, une veste usée à certains endroits, et transformer tout ça en sac banane !
 
