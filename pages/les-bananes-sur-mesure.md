@@ -21,7 +21,7 @@ Je propose 2 modèles, le Moyen et le Mini
 Dimensions : Le Moyen : 30x16x7,5cm ; Le Mini : 20x12x6cm
 
 
-**Les nouveaux tissus ! **
+**Les nouveaux tissus !**
 
 Ils sont tous destinés à des extérieurs de banane, sauf le 30A qui est pour une doublure intérieure 
 
