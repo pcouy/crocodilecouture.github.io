@@ -2,7 +2,7 @@
 layout: creation
 date: '2023-03-22 16:07 +0100'
 available: true
-miniature: ouverte
+miniature: face
 published: true
 title: Matelassée rose et Velours Côtelé
 ---
