@@ -7,7 +7,6 @@ published: true
 date: '2022-12-22 12:59 +0100'
 ---
 
-Banane n°12
 
 Cette belle banane vous emmènera au pays enchanté des licornes.
 
@@ -19,7 +18,7 @@ Une moyenne poche à l’arrière, format passeport, pour garder vos affaires pr
 
 Dimensions : 30x16x7,5cm
 
-Prix : 90€ TTC
+Banane n°12
 
 
 
