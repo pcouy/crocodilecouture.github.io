@@ -6,7 +6,7 @@ available: false
 title: Fleurs Bleues
 date: '2022-12-22 12:59 +0100'
 ---
-Banane n°14
+
 
 Une banane toute douce. Son tissu bleu extérieur tissé Jacquard, ainsi que le velour,  confèrent à cette banane une douceur inégalable.
 
@@ -16,6 +16,6 @@ Une poche principale, doublée de tissus rose fleuri.
 
 Une moyenne poche à l’arrière, format passeport, pour garder vos affaires précieuses tout contre vous.
 
-Dimensions : 30x16x7,5cm
+Banane n°14
 
-Prix : 90€ TTC
+Dimensions : 30x16x7,5cm
