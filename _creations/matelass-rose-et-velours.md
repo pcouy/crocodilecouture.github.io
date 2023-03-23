@@ -7,6 +7,7 @@ published: true
 title: Matelassée rose et Velours Côtelé
 ---
 
+
 🌸✨Découvrez la banane Matelassé rose et Velours Côtelé✨🌸
 
 Un sac banane bien confortable, tout doux, en tissu matelassé et en velours côtelé ! 
