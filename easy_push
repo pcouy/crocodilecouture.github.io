@@ -1,0 +1,5 @@
+#!/bin/bash
+
+pushd "$(dirname $(which "$0"))"
+git add _creations/ && git commit -m "Ajout creation" && git pull --rebase && git push
+popd

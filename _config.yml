@@ -25,7 +25,7 @@ collections:
 prose:
   rooturl: ''
   media: 'media'
-  ignore: ["_includes", "_layouts", "_sass", "assets", ".gitignore", "CNAME", "Gemfile", "_config.yml", "favicon.ico", "favicon.svg", "projects", "_posts", "crocodilecouture.gemspec"]
+  ignore: ["_includes", "_layouts", "_sass", "assets", ".gitignore", "CNAME", "Gemfile", "_config.yml", "favicon.ico", "favicon.svg", "projects", "_posts", "crocodilecouture.gemspec", "easy_push"]
   metadata:
     _creations:
       - name: "layout"
