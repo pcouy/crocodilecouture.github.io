@@ -6,6 +6,9 @@ miniature: ouverte
 published: true
 title: Banane Écossaise
 ---
+
+🌸✨Découvrez la banane Écossaise✨🌸
+
 Un sac banane de laine écossaise et jean,
 Où se mêlent les couleurs comme un arc-en-ciel,
 À l'intérieur des perroquets multicolores s'amusent,
@@ -21,5 +24,7 @@ Il s'adapte à chaque besoin, c’est un choix très malin.
 Une sangle noire, des boucles coulissantes en métal doré.
 
 Une poche principale et une moyenne poche à l’arrière, format passeport, pour garder vos affaires précieuses tout contre vous.
+
+Banane n°19
 
 Dimensions : 30x16x7,5cm
