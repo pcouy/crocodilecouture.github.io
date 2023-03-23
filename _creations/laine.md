@@ -4,9 +4,8 @@ date: '2023-03-10 09:38 +0100'
 available: false
 miniature: face
 published: true
-title: Laine
+title: Banane Laine Tressée
 ---
-## Banane laine tressée
 
 ✨❄️Découvrez la banane en laine tressée❄️✨
 
@@ -23,5 +22,7 @@ Avec une touche de fantaisie et de couleurs.
 Une sangle noire, des boucles coulissantes en métal doré.
 
 Une poche principale et une moyenne poche à l’arrière, format passeport, pour garder vos affaires précieuses tout contre vous.
+
+Banane n°20
 
 Dimensions : 30x16x7,5cm
