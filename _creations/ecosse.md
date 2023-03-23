@@ -4,10 +4,8 @@ date: '2023-03-10 09:33 +0100'
 available: false
 miniature: ouverte
 published: true
-title: Ecosse
+title: Banane Écossaise
 ---
-## Banane Ecossaise
-
 Un sac banane de laine écossaise et jean,
 Où se mêlent les couleurs comme un arc-en-ciel,
 À l'intérieur des perroquets multicolores s'amusent,
