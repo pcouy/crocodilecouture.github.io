@@ -2,7 +2,7 @@
 layout: page
 permalink: /cookies
 published: true
-title: Future Page
+title: Cookies
 ---
 ## Cookies
 
