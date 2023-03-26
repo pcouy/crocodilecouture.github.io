@@ -59,7 +59,7 @@ C’est possible !
 **Le prix**
 
 En fonction de ta demande, je te propose un prix. 
-A titre d’exemple, une banane modèle Moyen avec 1 poche principale et 1 poche arrière est vendue 90€.
+A titre d’exemple, une banane modèle Moyen avec 1 poche principale et 1 poche arrière est vendue 89€.
 
 
 
