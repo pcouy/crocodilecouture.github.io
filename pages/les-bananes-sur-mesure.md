@@ -53,7 +53,6 @@ Ils sont tous destinés à des extérieurs de banane, sauf le 30A qui est pour u
 {% include carousel.html images=images_carouselb %}
 {% capture images_carouselc %}
 ![Tissus Extérieurs 2/2]({{site.baseurl}}/media/carousels/EXT2/TissuExt1 (1).jpg)
-![10B]({{site.baseurl}}/media/carousels/EXT2/10B.jpg)
 ![2B]({{site.baseurl}}/media/carousels/EXT2/2B.jpg)
 ![3B]({{site.baseurl}}/media/carousels/EXT2/3B.jpg)
 ![4B]({{site.baseurl}}/media/carousels/EXT2/4B.jpg)
