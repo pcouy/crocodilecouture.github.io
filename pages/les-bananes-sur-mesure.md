@@ -24,7 +24,6 @@ Dimensions : Le Moyen : 30x16x7,5cm ; Le Mini : 20x12x6cm
 **Les nouveaux tissus !**
 
 Ils sont tous destinés à des extérieurs de banane, sauf le 30A qui est pour une doublure intérieure 
-
 {% capture images_carousel %}
 ![NouveauxTissusMars2023]({{site.baseurl}}/media/carousels/Nvo Tissus 1/nvo_tissus_032023.jpeg)
 ![22B]({{site.baseurl}}/media/carousels/Nvo Tissus 1/22B.jpg)
@@ -36,7 +35,6 @@ Ils sont tous destinés à des extérieurs de banane, sauf le 30A qui est pour u
 
 
 **Les tissus extérieurs**
-
 {% capture images_carouselb %}
 ![Tissus Extérieurs 1/2]({{site.baseurl}}/media/carousels/Ext1/TissuExt2(1).jpg)
 ![10B]({{site.baseurl}}/media/carousels/Ext1/10B.jpg)
@@ -53,8 +51,6 @@ Ils sont tous destinés à des extérieurs de banane, sauf le 30A qui est pour u
 ![9B]({{site.baseurl}}/media/carousels/Ext1/9B.jpg)
 {% endcapture %}
 {% include carousel.html images=images_carouselb %}
-
-
 {% capture images_carouselc %}
 ![Tissus Extérieurs 2/2]({{site.baseurl}}/media/carousels/EXT2/TissuExt1 (1).jpg)
 ![10B]({{site.baseurl}}/media/carousels/EXT2/10B.jpg)
@@ -68,9 +64,7 @@ Ils sont tous destinés à des extérieurs de banane, sauf le 30A qui est pour u
 {% endcapture %}
 {% include carousel.html images=images_carouselc %}
 
-
 **Les tissus intérieurs**
-
 {% capture images_carouseld %}
 ![Tissus Intérieurs 1/2]({{site.baseurl}}/media/carousels/Int 1/TissuInt2(1).jpg)
 ![16A]({{site.baseurl}}/media/carousels/Int 1/16A.jpg)
@@ -87,8 +81,6 @@ Ils sont tous destinés à des extérieurs de banane, sauf le 30A qui est pour u
 ![29A]({{site.baseurl}}/media/carousels/Int 1/29A.jpeg)
 {% endcapture %}
 {% include carousel.html images=images_carouseld %}
-
-
 {% capture images_carousele %}
 ![Tissus Intérieurs 2/2]({{site.baseurl}}/media/carousels/Int2/TissuInt1 (2).jpg)
 ![08A]({{site.baseurl}}/media/carousels/Int2/08A.jpg)
@@ -103,8 +95,6 @@ Ils sont tous destinés à des extérieurs de banane, sauf le 30A qui est pour u
 ![7A]({{site.baseurl}}/media/carousels/Int2/7A.jpg)
 {% endcapture %}
 {% include carousel.html images=images_carousele %}
-
-
 On peut aussi partir de tes propres tissus, par exemple un chemisier trop petit, une veste usée à certains endroits, et transformer tout ça en sac banane !
 
 
