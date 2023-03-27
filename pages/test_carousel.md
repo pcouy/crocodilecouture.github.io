@@ -23,6 +23,7 @@ Bienvenue chez Crocodile Couture, une marque indépendante de couture spécialis
 ![media/carousels/Int 1/28A.jpg]({{site.baseurl}}/media/carousels/Int 1/28A.jpg)
 ![media/carousels/Int 1/29A.jpeg]({{site.baseurl}}/media/carousels/Int 1/29A.jpeg)
 ![media/carousels/Int 1/TissuInt2(1).jpg]({{site.baseurl}}/media/carousels/Int 1/TissuInt2(1).jpg)
+{% endcapture %}
 {% include carousel.html images=images_carousel %}
 
 ![20221220_1312.jpg]({{site.baseurl}}/media/20221220_0784.jpg)
