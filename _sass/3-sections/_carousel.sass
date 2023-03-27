@@ -1,6 +1,7 @@
-.carousel
+section.carousel
   position: relative
   overflow-x: hidden
+  padding-bottom: 0
 
   .carousel-container
     display: flex
@@ -30,7 +31,7 @@
 
   nav:has(.carousel-prev), nav:has(.carousel-next)
     position: absolute
-    top: 35%
+    top: calc(0.5 * (95% - 1lh) - (0.75rem + 0.5lh))
     z-index: 10
   nav:has(.carousel-prev)
     left: 0
