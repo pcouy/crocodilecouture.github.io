@@ -13,7 +13,6 @@ module Kramdown
           el.attr['alt'] = alt_text
           el.attr['loading'] = "lazy"
           el.children.clear
-          puts el.inspect
         end
         el.attr['title'] = title if title
         @tree.children << el
