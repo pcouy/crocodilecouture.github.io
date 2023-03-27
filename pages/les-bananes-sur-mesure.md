@@ -38,7 +38,7 @@ Ils sont tous destinés à des extérieurs de banane, sauf le 30A qui est pour u
 **Les tissus extérieurs**
 
 {% capture images_carouselb %}
-![TissusExt1sur2]({{site.baseurl}}/media/carousels/Ext1/TissuExt2(1).jpg)
+![Tissus Extérieurs 1/2]({{site.baseurl}}/media/carousels/Ext1/TissuExt2(1).jpg)
 ![10B]({{site.baseurl}}/media/carousels/Ext1/10B.jpg)
 ![11B]({{site.baseurl}}/media/carousels/Ext1/11B.jpg)
 ![12B]({{site.baseurl}}/media/carousels/Ext1/12B.jpg)
@@ -56,7 +56,7 @@ Ils sont tous destinés à des extérieurs de banane, sauf le 30A qui est pour u
 
 
 {% capture images_carouselc %}
-![TissusExt2sur2]({{site.baseurl}}/media/carousels/EXT2/TissuExt1 (1).jpg)
+![Tissus Extérieurs 2/2]({{site.baseurl}}/media/carousels/EXT2/TissuExt1 (1).jpg)
 ![10B]({{site.baseurl}}/media/carousels/EXT2/10B.jpg)
 ![2B]({{site.baseurl}}/media/carousels/EXT2/2B.jpg)
 ![3B]({{site.baseurl}}/media/carousels/EXT2/3B.jpg)
@@ -69,13 +69,40 @@ Ils sont tous destinés à des extérieurs de banane, sauf le 30A qui est pour u
 {% include carousel.html images=images_carouselc %}
 
 
-
-
 **Les tissus intérieurs**
 
-![TissuInt2.jpg]({{site.baseurl}}/media/TissuInt2.jpg)
+{% capture images_carouseld %}
+![Tissus Intérieurs 1/2]({{site.baseurl}}/media/carousels/Int 1/TissuInt2(1).jpg)
+![16A]({{site.baseurl}}/media/carousels/Int 1/16A.jpg)
+![17A]({{site.baseurl}}/media/carousels/Int 1/17A.jpg)
+![18A]({{site.baseurl}}/media/carousels/Int 1/18A.jpg)
+![19A]({{site.baseurl}}/media/carousels/Int 1/19A.jpg)
+![20A]({{site.baseurl}}/media/carousels/Int 1/20A.jpg)
+![21A]({{site.baseurl}}/media/carousels/Int 1/21A.jpg)
+![23A]({{site.baseurl}}/media/carousels/Int 1/23A.jpg)
+![24A]({{site.baseurl}}/media/carousels/Int 1/24A.jpg)
+![25A]({{site.baseurl}}/media/carousels/Int 1/25A.jpg)
+![27A]({{site.baseurl}}/media/carousels/Int 1/27A.jpg)
+![28A]({{site.baseurl}}/media/carousels/Int 1/28A.jpg)
+![29A]({{site.baseurl}}/media/carousels/Int 1/29A.jpeg)
+{% endcapture %}
+{% include carousel.html images=images_carouseld %}
 
-![TissuInt1 (1).jpg]({{site.baseurl}}/media/TissuInt1 (1).jpg)
+
+{% capture images_carousele %}
+![Tissus Intérieurs 2/2]({{site.baseurl}}/media/carousels/Int2/TissuInt1 (2).jpg)
+![08A]({{site.baseurl}}/media/carousels/Int2/08A.jpg)
+![12A]({{site.baseurl}}/media/carousels/Int2/12A.jpg)
+![13A]({{site.baseurl}}/media/carousels/Int2/13A.jpg)
+![14A]({{site.baseurl}}/media/carousels/Int2/14A.jpg)
+![15A]({{site.baseurl}}/media/carousels/Int2/15A.jpg)
+![1A]({{site.baseurl}}/media/carousels/Int2/1A.jpg)
+![4A]({{site.baseurl}}/media/carousels/Int2/4A.jpg)
+![5A]({{site.baseurl}}/media/carousels/Int2/5A.jpg)
+![6A]({{site.baseurl}}/media/carousels/Int2/6A.jpg)
+![7A]({{site.baseurl}}/media/carousels/Int2/7A.jpg)
+{% endcapture %}
+{% include carousel.html images=images_carousele %}
 
 
 On peut aussi partir de tes propres tissus, par exemple un chemisier trop petit, une veste usée à certains endroits, et transformer tout ça en sac banane !
