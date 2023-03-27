@@ -10,11 +10,19 @@ published: true
 Bienvenue chez Crocodile Couture, une marque indépendante de couture spécialisée dans la confection de sacs banane uniques et fabriqués à la main.
 
 {% capture images_carousel %}
-![20221220_1312.jpg]({{site.baseurl}}/media/20221220_0784.jpg){:class="noborder"}
-![20221222_1312.jpg]({{site.baseurl}}/media/20221222_0003.jpg)
-![20221222_1312.jpg]({{site.baseurl}}/media/20221222_0013.jpg)
-![20221222_0005.jpg]({{site.baseurl}}/media/20221222_0005.jpg)
-{% endcapture %}
+![media/carousels/Int 1/16A.jpg]({{site.baseurl}}/media/carousels/Int 1/16A.jpg)
+![media/carousels/Int 1/17A.jpg]({{site.baseurl}}/media/carousels/Int 1/17A.jpg)
+![media/carousels/Int 1/18A.jpg]({{site.baseurl}}/media/carousels/Int 1/18A.jpg)
+![media/carousels/Int 1/19A.jpg]({{site.baseurl}}/media/carousels/Int 1/19A.jpg)
+![media/carousels/Int 1/20A.jpg]({{site.baseurl}}/media/carousels/Int 1/20A.jpg)
+![media/carousels/Int 1/21A.jpg]({{site.baseurl}}/media/carousels/Int 1/21A.jpg)
+![media/carousels/Int 1/23A.jpg]({{site.baseurl}}/media/carousels/Int 1/23A.jpg)
+![media/carousels/Int 1/24A.jpg]({{site.baseurl}}/media/carousels/Int 1/24A.jpg)
+![media/carousels/Int 1/25A.jpg]({{site.baseurl}}/media/carousels/Int 1/25A.jpg)
+![media/carousels/Int 1/27A.jpg]({{site.baseurl}}/media/carousels/Int 1/27A.jpg)
+![media/carousels/Int 1/28A.jpg]({{site.baseurl}}/media/carousels/Int 1/28A.jpg)
+![media/carousels/Int 1/29A.jpeg]({{site.baseurl}}/media/carousels/Int 1/29A.jpeg)
+![media/carousels/Int 1/TissuInt2(1).jpg]({{site.baseurl}}/media/carousels/Int 1/TissuInt2(1).jpg)
 {% include carousel.html images=images_carousel %}
 
 ![20221220_1312.jpg]({{site.baseurl}}/media/20221220_0784.jpg)
