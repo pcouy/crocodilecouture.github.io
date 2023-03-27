@@ -25,7 +25,7 @@ Dimensions : Le Moyen : 30x16x7,5cm ; Le Mini : 20x12x6cm
 
 Ils sont tous destinés à des extérieurs de banane, sauf le 30A qui est pour une doublure intérieure 
 {% capture images_carousel %}
-![NouveauxTissusMars2023]({{site.baseurl}}/media/carousels/Nvo Tissus 1/nvo_tissus_032023.jpeg)
+![Nouveaux Tissus Mars 2023]({{site.baseurl}}/media/carousels/Nvo Tissus 1/nvo_tissus_032023.jpeg)
 ![22B]({{site.baseurl}}/media/carousels/Nvo Tissus 1/22B.jpg)
 ![23B]({{site.baseurl}}/media/carousels/Nvo Tissus 1/23B.jpg)
 ![24B]({{site.baseurl}}/media/carousels/Nvo Tissus 1/24B.jpg)
