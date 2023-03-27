@@ -53,6 +53,26 @@ if (!window.carousel_init) {
                 }
             }
 
+            if (current_index === 0) {
+                carousel.querySelectorAll(".carousel-prev").forEach(button=>{
+                    button.classList.add("hide")
+                });
+            } else {
+                carousel.querySelectorAll(".carousel-prev").forEach(button=>{
+                    button.classList.remove("hide")
+                });
+            }
+
+            if (current_index === wrapped_pictures.length - 1) {
+                carousel.querySelectorAll(".carousel-next").forEach(button=>{
+                    button.classList.add("hide")
+                });
+            } else {
+                carousel.querySelectorAll(".carousel-next").forEach(button=>{
+                    button.classList.remove("hide")
+                });
+            }
+
             let animation_class = (direction === "next" ? "left-animated" : "right-animated");
             let other_animation_class = (direction === "prev" ? "left-animated" : "right-animated");
             carousel_container.classList.remove(animation_class, "animation-part2");

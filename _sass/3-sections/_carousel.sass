@@ -35,6 +35,12 @@ section.carousel
     position: absolute
     top: calc((95% - 1em) / 2 - (0.75rem + 0.5em))
     z-index: 10
+    &>a
+      opacity: 1
+      display: inline-block
+      &.hide
+        transition: opacity 200ms, display 200ms
+        opacity: 0
     &:has(.carousel-prev)
       left: 0
     &:has(.carousel-next)
