@@ -111,6 +111,8 @@ if (!window.carousel_init) {
                     if (carousel_container.contains(picture)) {
                         // Picture is leaving the DOM
                         leaving_pic = picture;
+                    } else if (Math.abs(current_index - index) == 2) {
+                        carousel_preload.append(picture);
                     }
                 }
 
@@ -148,6 +150,7 @@ if (!window.carousel_init) {
                 carousel_container.addEventListener("animationend", animation_cb);
             }
 
+            carousel.querySelectorAll("img").forEach(i=>i.loading = "eager");
             if (!init) running = false;
             init = true;
         };
