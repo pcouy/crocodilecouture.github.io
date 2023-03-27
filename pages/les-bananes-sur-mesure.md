@@ -37,9 +37,37 @@ Ils sont tous destinés à des extérieurs de banane, sauf le 30A qui est pour u
 
 **Les tissus extérieurs**
 
-![TissuExt2.jpg]({{site.baseurl}}/media/TissuExt2.jpg)
+{% capture images_carouselb %}
+![TissusExt1sur2]({{site.baseurl}}/media/carousels/Ext1/TissuExt2(1).jpg)
+![10B]({{site.baseurl}}/media/carousels/Ext1/10B.jpg)
+![11B]({{site.baseurl}}/media/carousels/Ext1/11B.jpg)
+![12B]({{site.baseurl}}/media/carousels/Ext1/12B.jpg)
+![13B]({{site.baseurl}}/media/carousels/Ext1/13B.jpg)
+![14B]({{site.baseurl}}/media/carousels/Ext1/14B.jpg)
+![15B]({{site.baseurl}}/media/carousels/Ext1/15B.jpg)
+![16B]({{site.baseurl}}/media/carousels/Ext1/16B.jpg)
+![17B]({{site.baseurl}}/media/carousels/Ext1/17B.jpg)
+![18B]({{site.baseurl}}/media/carousels/Ext1/18B.jpg)
+![19B]({{site.baseurl}}/media/carousels/Ext1/19B.jpg)
+![20B]({{site.baseurl}}/media/carousels/Ext1/20B.jpg)
+![9B]({{site.baseurl}}/media/carousels/Ext1/9B.jpg)
+{% endcapture %}
+{% include carousel.html images=images_carouselb %}
 
-![TissuExt1 (1).jpg]({{site.baseurl}}/media/TissuExt1 (1).jpg)
+
+{% capture images_carouselc %}
+![TissusExt2sur2]({{site.baseurl}}/media/carousels/EXT2/TissuExt1 (1).jpg)
+![10B]({{site.baseurl}}/media/carousels/EXT2/10B.jpg)
+![2B]({{site.baseurl}}/media/carousels/EXT2/2B.jpg)
+![3B]({{site.baseurl}}/media/carousels/EXT2/3B.jpg)
+![4B]({{site.baseurl}}/media/carousels/EXT2/4B.jpg)
+![5B]({{site.baseurl}}/media/carousels/EXT2/5B.jpg)
+![6B]({{site.baseurl}}/media/carousels/EXT2/6B.jpg)
+![7B]({{site.baseurl}}/media/carousels/EXT2/7B.jpg)
+![8B]({{site.baseurl}}/media/carousels/EXT2/8B.jpg)
+{% endcapture %}
+{% include carousel.html images=images_carouselc %}
+
 
 
 
