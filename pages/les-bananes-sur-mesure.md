@@ -20,6 +20,23 @@ Je propose 2 modèles, le Moyen et le Mini
 
 Dimensions : Le Moyen : 30x16x7,5cm ; Le Mini : 20x12x6cm
 
+**Mais aussi**
+
+Ajouter des poches extérieures ? Des poches intérieures? 
+C'est possible !
+
+Transformer en banane un vêtement que tu adores, mais que tu ne peux plus mettre?  
+C’est possible !
+
+
+**Le prix**
+
+En fonction de ta demande, je te propose un prix. 
+A titre d’exemple, une banane modèle Moyen avec 1 poche principale et 1 poche arrière est vendue 89€.
+
+Alors [viens commander ta banane](mailto:crocodile.couture@gmail.com) ! 
+
+
 
 **Les nouveaux tissus !**
 
@@ -95,26 +112,6 @@ Ils sont tous destinés à des extérieurs de banane, sauf le 30A qui est pour u
 {% endcapture %}
 {% include carousel.html images=images_carousele %}
 On peut aussi partir de tes propres tissus, par exemple un chemisier trop petit, une veste usée à certains endroits, et transformer tout ça en sac banane !
-
-
-**Mais aussi**
-
-Ajouter des poches extérieures ? Des poches intérieures? 
-C'est possible !
-
-Transformer en banane un vêtement que tu adores, mais que tu ne peux plus mettre?  
-C’est possible !
-
-
-**Le prix**
-
-En fonction de ta demande, je te propose un prix. 
-A titre d’exemple, une banane modèle Moyen avec 1 poche principale et 1 poche arrière est vendue 89€.
-
-
-
-Alors [viens commander ta banane](mailto:crocodile.couture@gmail.com) ! 
-
 
 
 N’hésitez pas à [me contacter](mailto:crocodile.couture@gmail.com) pour toute question ou demande spéciale. Je serai très heureuse de vous aider à fabriquer le sac de vos rêves.
