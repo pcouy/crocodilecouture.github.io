@@ -99,16 +99,16 @@ Ils sont tous destinés à des extérieurs de banane, sauf le 30A qui est pour u
 {% include carousel.html images=images_carouseld %}
 {% capture images_carousele %}
 ![Tissus Intérieurs 2/2]({{site.baseurl}}/media/carousels/Int2/TissuInt1 (2).jpg)
-![08A]({{site.baseurl}}/media/carousels/Int2/08A.jpg)
-![12A]({{site.baseurl}}/media/carousels/Int2/12A.jpg)
-![13A]({{site.baseurl}}/media/carousels/Int2/13A.jpg)
-![14A]({{site.baseurl}}/media/carousels/Int2/14A.jpg)
-![15A]({{site.baseurl}}/media/carousels/Int2/15A.jpg)
 ![1A]({{site.baseurl}}/media/carousels/Int2/1A.jpg)
 ![4A]({{site.baseurl}}/media/carousels/Int2/4A.jpg)
 ![5A]({{site.baseurl}}/media/carousels/Int2/5A.jpg)
 ![6A]({{site.baseurl}}/media/carousels/Int2/6A.jpg)
 ![7A]({{site.baseurl}}/media/carousels/Int2/7A.jpg)
+![08A]({{site.baseurl}}/media/carousels/Int2/08A.jpg)
+![12A]({{site.baseurl}}/media/carousels/Int2/12A.jpg)
+![13A]({{site.baseurl}}/media/carousels/Int2/13A.jpg)
+![14A]({{site.baseurl}}/media/carousels/Int2/14A.jpg)
+![15A]({{site.baseurl}}/media/carousels/Int2/15A.jpg)
 {% endcapture %}
 {% include carousel.html images=images_carousele %}
 On peut aussi partir de tes propres tissus, par exemple un chemisier trop petit, une veste usée à certains endroits, et transformer tout ça en sac banane !
