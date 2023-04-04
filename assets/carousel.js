@@ -2,13 +2,13 @@ if (!window.carousel_init) {
     console.log("Carousel init:",window.carousel_init);
     let carousels = document.querySelectorAll(".carousel");
     carousels.forEach(function(carousel){
-        let carousel_pictures = carousel.querySelectorAll(".carousel-container img");
+        let carousel_pictures = carousel.querySelectorAll(".carousel-container picture");
         let wrapped_pictures = Array.from(carousel_pictures).map(img => {
             img.remove();
             console.log("Removed :",img);
             let figure = document.createElement("figure");
             let caption = document.createElement("figcaption");
-            caption.innerText = img.alt;
+            caption.innerText = img.querySelector("img").alt;
             figure.append(img);
             figure.append(caption);
             return figure;
