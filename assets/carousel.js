@@ -1,6 +1,8 @@
 if (!window.carousel_init) {
     console.log("Carousel init:",window.carousel_init);
+    window.carousel_init = true;
     let carousels = document.querySelectorAll(".carousel");
+    console.log(carousels);
     carousels.forEach(function(carousel){
         let carousel_pictures = carousel.querySelectorAll(".carousel-container picture");
         let wrapped_pictures = Array.from(carousel_pictures).map(img => {
@@ -160,6 +162,4 @@ if (!window.carousel_init) {
         });
         update_dom();
     });
-} else {
-    window.carousel_init = true;
 }

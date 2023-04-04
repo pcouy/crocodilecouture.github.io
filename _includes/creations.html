@@ -1,9 +1,12 @@
 <section>
   <div class="project-container">
     {% for creation in site.creations reversed %}
+{% capture mdimg %}
+![{{ creation.title }}](/_creations/{{ creation.url | split: "/" | last }}/{% if creation.miniature %}{{creation.miniature}}{% else %}ouverte{% endif %}.webp)
+{% endcapture %}
       <a href="{{ creation.url }}">
         <div class="project-unit" data-folder="{{ project.url }}" >
-          <img src="{{ creation.url }}/{% if creation.miniature %}{{creation.miniature}}{% else %}ouverte{% endif %}.webp">
+          {{ mdimg | markdownify }}
           <div class="project-overlay">
             <p>
               <strong>{{ creation.title }} <i class="fa fa-arrow-right" aria-hidden="true"></i></strong>

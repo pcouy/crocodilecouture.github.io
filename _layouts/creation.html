@@ -12,9 +12,12 @@ layout: default
       <a href="mailto:crocodile.couture@gmail.com?subject=Commande de banane - {{ page.title }}">Commander</a>
       </p>
       {% endif %}
-      <img src="{{ page.url }}/face.webp" alt="Vue de face">
-      <img src="{{ page.url }}/ouverte.webp" alt="Vue ouverte">
-      <img src="{{ page.url }}/arriere.webp" alt="Vue arrière">
+{% capture mdimgs %}
+![Vue de face](/_creations/{{ page.url | split: "/" | last }}/face.webp)
+![Vue ouverte](/_creations/{{ page.url | split: "/" | last }}/ouverte.webp)
+![Vue arrière](/_creations/{{ page.url | split: "/" | last }}/arriere.webp)
+{% endcapture %}
+{{ mdimgs | markdownify }}
       {% if page.available %}
       <p class="order-now">
       <a href="mailto:crocodile.couture@gmail.com?subject=Commande de banane - {{ page.title }}">Commander</a>
