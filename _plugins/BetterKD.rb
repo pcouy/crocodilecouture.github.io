@@ -1,5 +1,6 @@
 # frozen_string_literal: true
 
+require 'cgi/escape'
 
 module Jekyll
   PICTURE_VERSIONS = {
