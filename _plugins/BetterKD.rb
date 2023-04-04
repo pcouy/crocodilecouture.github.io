@@ -1,6 +1,5 @@
 # frozen_string_literal: true
 
-require 'cgi'
 
 module Jekyll
   PICTURE_VERSIONS = {
@@ -77,6 +76,7 @@ module Kramdown
   module Converter
     class Html
       def convert_img(el, _indent)
+        require 'cgi'
         res = "<picture>"
         new_src = el.attr['src']
         if File.extname(el.attr['src']) =~ /(\.jpg|\.jpeg|\.webp)$/i
