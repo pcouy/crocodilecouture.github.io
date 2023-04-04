@@ -85,9 +85,9 @@ module Kramdown
               "/img",
               version,
               File.dirname(el.attr['src']).split("/").map do |x|
-                CGI.escapeURIComponent(x)
+                x.gsub(" ", "%20")
               end.join("/"),
-              CGI.escapeURIComponent(File.basename(el.attr['src'],File.extname(el.attr['src'])))
+              File.basename(el.attr['src'],File.extname(el.attr['src'])).gsub(" ", "%20")
             )
             if index == Jekyll::PICTURE_VERSIONS.size - 1
               media = ""
