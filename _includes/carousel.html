@@ -1,8 +1,10 @@
 <section class="carousel">
-    <nav class="bigbutton"><a class="carousel-prev">&lt;</a></nav>
+    <nav class="bigbutton"><a class="carousel-prev" href="#"><i class="fa fa-caret-left" aria-hidden="true"></i></a></nav>
+    <nav class="bigbutton"><a class="carousel-first carousel-prev" href="#"><i class="fa fa-step-backward" aria-hidden="true"></i></a></nav>
+
     <div class="carousel-container">
         {{ include.images | markdownify }}
     </div>
-    <nav class="bigbutton"><a class="carousel-next">&gt;</a></nav>
+    <nav class="bigbutton"><a class="carousel-next" href="#"><i class="fa fa-caret-right" aria-hidden="true"></i></a></nav>
 </section>
 

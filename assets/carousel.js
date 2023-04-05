@@ -39,6 +39,9 @@ if (!window.carousel_init) {
         let running = false;
 
         let update_dom = (e) => {
+            if (e !== undefined) {
+                e.preventDefault();
+            }
             if (running) return;
             running = true;
 
@@ -159,6 +162,28 @@ if (!window.carousel_init) {
 
         carousel.querySelectorAll(".carousel-next,.carousel-prev").forEach(control => {
             control.addEventListener("click", update_dom);
+        });
+        carousel.querySelectorAll(".carousel-first").forEach(control => {
+            control.addEventListener("click", (e)=>{
+                e.preventDefault();
+                let animation_step = 0;
+                let carousel_container = carousel.querySelector(".carousel-container");
+                carousel_container.classList.add("carousel-quick");
+                let go_to_first_cb = () => {
+                    animation_step++;
+                    console.log("Animation step : ", animation_step);
+                    if (animation_step % 2 === 0) {
+                        console.log("Current index : ", current_index);
+                        if (current_index !== 0) {
+                            setTimeout(()=>carousel.querySelector(".carousel-prev").click(),10);
+                        } else {
+                            carousel_container.classList.remove("carousel-quick");
+                            carousel_container.removeEventListener("animationend", go_to_first_cb);
+                        }
+                    }
+                };
+                carousel_container.addEventListener("animationend", go_to_first_cb);
+            });
         });
         update_dom();
     });

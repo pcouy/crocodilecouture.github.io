@@ -47,6 +47,7 @@ section.carousel
     &>a
       opacity: 1
       display: inline-block
+      max-width: 0.5rem
       &.hide
         transition: opacity 200ms, display 200ms
         opacity: 0
@@ -54,10 +55,12 @@ section.carousel
       left: 0
     &:has(.carousel-next)
       right: 0
-    &:first-child
+    &:first-child, &:nth-child(2)
       left: 0
-    &:not(:first-child)
-      right: 0
+    &:nth-child(2)
+      transform: translate(0%, 100%)
+  .carousel-container ~ nav
+    right: 0
 
 
   @keyframes left-animation
@@ -74,6 +77,9 @@ section.carousel
 
   .left-animated,.right-animated
     animation-duration: 0.25s
+    &.carousel-quick
+      animation-duration: 0.05s
+      animation-timing-function: linear
     animation-direction: forwards
     animation-timing-function: ease-in
   .left-animated
