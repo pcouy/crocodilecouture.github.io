@@ -1,6 +1,5 @@
 # frozen_string_literal: true
 
-
 module Jekyll
   PICTURE_VERSIONS = {
     #"xs" => "256",
@@ -9,45 +8,71 @@ module Jekyll
   }
 
   class StaticFile
-    def picture_versions
-      @site.config['picture_versions']
-    end
+    attr_reader :site, :dest, :dir, :name
+  end
 
-    alias_method :old_copy_file, :copy_file
-    def copy_file(dest_path)
-      res=old_copy_file(dest_path)
-      if picture?
-        convert_picture(dest_path)
-      end
-      res
+  class OutImageFile < StaticFile
+    def initialize(site, orig_static_file, version, pictype)
+      super(site, site.source, orig_static_file.dir, orig_static_file.name)
+      @version = version
+      @picture_dim = PICTURE_VERSIONS.merge(site.config['picture_versions'] || {})[@version]
+      @pictype = pictype
+      @collection = nil
     end
 
     def picture?
       extname =~ /(\.jpg|\.jpeg|\.webp)$/i
     end
 
-    def convert_picture(dest_path)
-      puts dest_path
-      threads = []
-      Jekyll::PICTURE_VERSIONS.each_with_index do |(version, geometry), index|
-        output_dir = @site.in_dest_dir(File.join("img",version,@dir))
-        FileUtils.mkdir_p(output_dir)
-        output_basename = File.join(output_dir, basename)
-        threads.push Thread.new {
-          p=IO.popen(["convert", path, "-resize", geometry+"x"+">", "-background", "#"+@site.config["background_color"], "-flatten", "-alpha", "off", output_basename+".jpg"])
-          p.close
-        }
+    def destination(dest)
+      output_dir = File.join("img",@version,@dir)
+      output_basename = @site.in_dest_dir(@site.dest,File.join(output_dir, "#{basename}.#{@pictype}"))
+      FileUtils.mkdir_p(File.dirname(output_dir))
+      @destination ||= {}
+      @destination[dest] ||= output_basename
+    end
 
-        threads.push Thread.new {
-          p=IO.popen(["convert", path, "-resize", geometry+"x"+geometry+">", output_basename+".webp"])
-          p.close
-        }
+    def write(*args)
+      puts "write : #{args} Modified : #{modified?}"
+      super(*args)
+    end
+
+    def copy_file(dest_path)
+      puts "copy_file : #{path} -> #{dest_path}"
+      if @pictype == "jpg"
+        p=IO.popen(["convert", @path, "-resize", @picture_dim+"x"+">", "-background", "#"+@site.config["background_color"], "-flatten", "-alpha", "off", dest_path])
+        p.close
+      else
+        p=IO.popen(["convert", @path, "-resize", @picture_dim+"x"+">", dest_path])
+        p.close
       end
-      threads.each do |thread|
-        thread.join
+
+      unless File.symlink?(dest_path)
+        File.utime(self.class.mtimes[path], self.class.mtimes[path], dest_path)
       end
     end
   end
+
+  class PicsGenerator < Generator
+    safe true
+    priority :lowest
+
+    def generate(site)
+      @picture_versions = PICTURE_VERSIONS.merge(site.config['picture_versions'] || {})
+      new_statics = []
+      site.static_files.filter{|f| f.extname =~ /(\.jpg|\.jpeg|\.webp)$/i}.each do |f|
+        @picture_versions.each do |v, s|
+          img_f = OutImageFile.new(site, f, v, "jpg")
+          new_statics << img_f
+          img_f = OutImageFile.new(site, f, v, "webp")
+          new_statics << img_f
+        end
+      end
+
+      new_statics.each{|f| site.static_files << f}
+    end
+  end
+
 end
 
 module Kramdown
