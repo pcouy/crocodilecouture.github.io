@@ -41,8 +41,6 @@ jobs:
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v3
-      - name: Install actual dependencies
-        run: bundle install
       - name: Install imagemagick
         run: sudo apt-get update && sudo apt-get install imagemagick
       - name: Build with Jekyll
