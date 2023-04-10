@@ -3,7 +3,7 @@
 port: 4000
 markdown:  kramdown
 permalink: /:title
-plugins:   [jekyll-sitemap, jekyll-feed,  jekyll-seo-tag]
+plugins:   [jekyll-sitemap, jekyll-feed,  jekyll-seo-tag, jekyll-picture-tag-ng]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 
@@ -18,7 +18,12 @@ social:
     - https://instagram.com/crocodile.couture
     - https://facebook.com/crocodile.couture
 
-background_color: F7DADF
+picture_tag_ng:
+  background_color: F7DADF
+  picture_versions:
+    m: 700
+    s: 400
+    l: 1200
   
 collections:
   creations:
