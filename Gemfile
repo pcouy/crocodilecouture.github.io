@@ -1,4 +1,4 @@
 source "https://rubygems.org"
 gemspec
 
-gem "jekyll-picture-tag-ng", "~> 0.1.0"
+gem "jekyll-picture-tag-ng", "~> 0.2.0"
