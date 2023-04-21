@@ -4,7 +4,7 @@ date: '2023-04-21 17:23 +0200'
 available: true
 miniature: ouverte
 published: false
-title: ''
+title: 'Étanche blanche avec fermeture rose '
 ---
 ## A New Post
 
