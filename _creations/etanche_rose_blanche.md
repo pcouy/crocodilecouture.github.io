@@ -3,7 +3,7 @@ layout: creation
 date: '2023-04-21 17:23 +0200'
 available: false
 miniature: ouverte
-published: false
+published: true
 title: 'Étanche blanche avec fermeture rose '
 ---
 ✨💧Découvrez la banane étanche blanche et rose💧✨
