@@ -2,7 +2,7 @@
 layout: creation
 date: '2023-04-21 17:23 +0200'
 available: false
-miniature: ouverte
+miniature: face
 published: true
 title: 'Étanche blanche avec fermeture rose '
 ---
