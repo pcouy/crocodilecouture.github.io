@@ -6,7 +6,7 @@ title: Les bananes sur mesure
 ---
 ## Les bananes sur mesure 
 
-Bienvenue sur la page des bananes sur mesure, la page où tout est possible.
+Bienvenue sur la page des bananes sur mesure, là où tout est possible.
 
 Un vaste choix de tissus, des possibilités d'assemblage infinies !
 
