@@ -8,9 +8,18 @@ layout: default
     <div class="project-load">
       {{ content }}
       {% if page.available %}
-      <p class="order-now">
-      <a href="mailto:crocodile.couture@gmail.com?subject=Commande de banane - {{ page.title }}">Commander</a>
-      </p>
+          <p class="order-now">
+          <a href="mailto:crocodile.couture@gmail.com?subject=Commande de banane - {{ page.title }}">Commander</a>
+          </p>
+      {% else %}
+        <div class="not-available">
+        {% assign social_mail = site.data.settings.social | find_exp: "it", "it.link contains 'mailto:'" %}
+        <h5>Cette banane n’est plus disponible</h5>
+        <p>
+        Cette banane vous plait mais elle n’est plus disponible? Je fabrique les bananes à la demande, n’hésitez pas à <a href="{{ social_mail["link"] }}">me contacter</a>.
+        Je vous proposerai un modèle personnalisé, afin que chaque sac banane reste unique ! Vous pouvez regarder mes tissus sur la page des <a href="/les-bananes-sur-mesure">bananes sur mesure</a> si vous avez besoin d’inspiration.
+        </p>
+        </div>
       {% endif %}
 {% capture mdimgs %}
 ![Vue de face](/_creations/{{ page.url | split: "/" | last }}/face.webp)
