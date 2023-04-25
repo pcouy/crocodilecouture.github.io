@@ -1,0 +1,3 @@
+picture_tag_ng:
+  parallel: true
+  threads: 4

@@ -19,6 +19,8 @@ social:
     - https://facebook.com/crocodile.couture
 
 picture_tag_ng:
+  parallel: true
+  threads: 16
   background_color: F7DADF
   picture_versions:
     m: 700
