@@ -19,6 +19,7 @@ social:
     - https://facebook.com/crocodile.couture
 
 picture_tag_ng:
+  backend: libvips
   parallel: true
   threads: 8
   background_color: F7DADF
