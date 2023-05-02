@@ -42,7 +42,7 @@ jobs:
         id: pages
         uses: actions/configure-pages@v3
       - name: Install imagemagick
-        run: sudo apt-get update && sudo apt-get install imagemagick
+        run: sudo apt-get update && sudo apt-get install libvips-tools
       - name: Build with Jekyll
         # Outputs to the './_site' directory by default
         run: bundle exec jekyll build --config _config.yml,_config_gh.yml --baseurl "${{ steps.pages.outputs.base_path }}"
