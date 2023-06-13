@@ -38,8 +38,41 @@ Alors [viens commander ta banane](mailto:crocodile.couture@gmail.com) !
 
 
 
-**Les nouveaux tissus !**
+**Les nouveaux tissus Juin 2023 !**
+{% capture images_carouself %}
+![NvoTissusJuin23ext.jpg]({{site.baseurl}}/media/NvoTissujuin23ext.jpg)
+![25B.jpg]({{site.baseurl}}/media/25B.jpg)
+![26B.jpg]({{site.baseurl}}/media/26B.jpg)
+![27B.jpg]({{site.baseurl}}/media/27B.jpg)
+![28B29B.jpg]({{site.baseurl}}/media/28B29B.jpg)
+![30B.jpg]({{site.baseurl}}/media/30B.jpg)
+![31B.jpg]({{site.baseurl}}/media/31B.jpg)
+![32B.jpg]({{site.baseurl}}/media/32B.jpg)
+![33B.jpg]({{site.baseurl}}/media/33B.jpg)
+![34B.jpg]({{site.baseurl}}/media/34B.jpg)
+{% endcapture %}
+{% include carousel.html images=images_carouself %}
 
+{% capture images_carouselg %}
+
+
+
+![NvoTissusJuin23ext.jpg]({{site.baseurl}}/media/NvoTissujuin23ext.jpg)
+![25B.jpg]({{site.baseurl}}/media/25B.jpg)
+![26B.jpg]({{site.baseurl}}/media/26B.jpg)
+![27B.jpg]({{site.baseurl}}/media/27B.jpg)
+![28B29B.jpg]({{site.baseurl}}/media/28B29B.jpg)
+![30B.jpg]({{site.baseurl}}/media/30B.jpg)
+![31B.jpg]({{site.baseurl}}/media/31B.jpg)
+![32B.jpg]({{site.baseurl}}/media/32B.jpg)
+![33B.jpg]({{site.baseurl}}/media/33B.jpg)
+![34B.jpg]({{site.baseurl}}/media/34B.jpg)
+{% endcapture %}
+{% include carousel.html images=images_carouselg %}
+
+
+
+**Les nouveaux tissus Mars 2023 !**
 Ils sont tous destinés à des extérieurs de banane, sauf le 30A qui est pour une doublure intérieure 
 {% capture images_carousel %}
 ![Nouveaux Tissus Mars 2023]({{site.baseurl}}/media/carousels/Nvo Tissus 1/nvo_tissus_032023.jpeg)
@@ -51,7 +84,7 @@ Ils sont tous destinés à des extérieurs de banane, sauf le 30A qui est pour u
 {% include carousel.html images=images_carousel %}
 
 
-**Les tissus extérieurs**
+**Autres tissus extérieurs**
 {% capture images_carouselb %}
 ![Tissus Extérieurs 1/2]({{site.baseurl}}/media/carousels/Ext1/TissuExt2(1).jpg)
 ![10B]({{site.baseurl}}/media/carousels/Ext1/10B.jpg)
@@ -80,7 +113,7 @@ Ils sont tous destinés à des extérieurs de banane, sauf le 30A qui est pour u
 {% endcapture %}
 {% include carousel.html images=images_carouselc %}
 
-**Les tissus intérieurs**
+**Autres tissus intérieurs**
 {% capture images_carouseld %}
 ![Tissus Intérieurs 1/2]({{site.baseurl}}/media/carousels/Int 1/TissuInt2(1).jpg)
 ![16A]({{site.baseurl}}/media/carousels/Int 1/16A.jpg)
