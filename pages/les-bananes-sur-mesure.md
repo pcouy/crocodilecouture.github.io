@@ -10,6 +10,8 @@ Bienvenue sur la page des bananes sur mesure, là où tout est possible.
 
 Un vaste choix de tissus, des possibilités d'assemblage infinies !
 
+Des photos des tissus disponibles sont visibles plus bas sur cette page.
+
 
 Venez discuter avec [moi](mailto:crocodile.couture@gmail.com) pour préciser votre demande.
 
@@ -36,8 +38,6 @@ A titre d’exemple, une banane modèle Moyen avec 1 poche principale et 1 poche
 
 Alors [viens commander ta banane](mailto:crocodile.couture@gmail.com) ! 
 
-
-
 **Les nouveaux tissus Juin 2023 !**
 {% capture images_carouself %}
 ![NvoTissusJuin23ext.jpg]({{site.baseurl}}/media/NvoTissujuin23ext.jpg)
@@ -52,25 +52,15 @@ Alors [viens commander ta banane](mailto:crocodile.couture@gmail.com) !
 ![34B.jpg]({{site.baseurl}}/media/34B.jpg)
 {% endcapture %}
 {% include carousel.html images=images_carouself %}
-
 {% capture images_carouselg %}
-
-
-
-![NvoTissusJuin23ext.jpg]({{site.baseurl}}/media/NvoTissujuin23ext.jpg)
-![25B.jpg]({{site.baseurl}}/media/25B.jpg)
-![26B.jpg]({{site.baseurl}}/media/26B.jpg)
-![27B.jpg]({{site.baseurl}}/media/27B.jpg)
-![28B29B.jpg]({{site.baseurl}}/media/28B29B.jpg)
-![30B.jpg]({{site.baseurl}}/media/30B.jpg)
-![31B.jpg]({{site.baseurl}}/media/31B.jpg)
-![32B.jpg]({{site.baseurl}}/media/32B.jpg)
-![33B.jpg]({{site.baseurl}}/media/33B.jpg)
-![34B.jpg]({{site.baseurl}}/media/34B.jpg)
+![NvoTissusJuin23Int.jpg]({{site.baseurl}}/media/TissusJuin23Int.jpg)
+![31A.jpg]({{site.baseurl}}/media/31A.jpg)
+![32A.jpg]({{site.baseurl}}/media/32A.jpg)
+![33A.jpg]({{site.baseurl}}/media/33A.jpg)
+![34A.jpg]({{site.baseurl}}/media/34A.jpg)
+![35A.jpg]({{site.baseurl}}/media/35A.jpg)
 {% endcapture %}
 {% include carousel.html images=images_carouselg %}
-
-
 
 **Les nouveaux tissus Mars 2023 !**
 Ils sont tous destinés à des extérieurs de banane, sauf le 30A qui est pour une doublure intérieure 
@@ -82,7 +72,6 @@ Ils sont tous destinés à des extérieurs de banane, sauf le 30A qui est pour u
 ![30A]({{site.baseurl}}/media/carousels/Nvo Tissus 1/30A.jpg)
 {% endcapture %}
 {% include carousel.html images=images_carousel %}
-
 
 **Autres tissus extérieurs**
 {% capture images_carouselb %}
