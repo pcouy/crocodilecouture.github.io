@@ -40,7 +40,7 @@ Alors [viens commander ta banane](mailto:crocodile.couture@gmail.com) !
 
 **Les nouveaux tissus Juin 2023 !**
 {% capture images_carouself %}
-![NvoTissusJuin23ext.jpg]({{site.baseurl}}/media/NvoTissujuin23ext.jpg)
+![Nouveaux Tissus Ext Juin 2023.jpg]({{site.baseurl}}/media/NvoTissujuin23ext.jpg)
 ![25B.jpg]({{site.baseurl}}/media/25B.jpg)
 ![26B.jpg]({{site.baseurl}}/media/26B.jpg)
 ![27B.jpg]({{site.baseurl}}/media/27B.jpg)
@@ -53,7 +53,7 @@ Alors [viens commander ta banane](mailto:crocodile.couture@gmail.com) !
 {% endcapture %}
 {% include carousel.html images=images_carouself %}
 {% capture images_carouselg %}
-![NvoTissusJuin23Int.jpg]({{site.baseurl}}/media/TissusJuin23Int.jpg)
+![Nouveaux Tissus Int Juin 2023.jpg]({{site.baseurl}}/media/TissusJuin23Int.jpg)
 ![31A.jpg]({{site.baseurl}}/media/31A.jpg)
 ![32A.jpg]({{site.baseurl}}/media/32A.jpg)
 ![33A.jpg]({{site.baseurl}}/media/33A.jpg)
@@ -63,6 +63,7 @@ Alors [viens commander ta banane](mailto:crocodile.couture@gmail.com) !
 {% include carousel.html images=images_carouselg %}
 
 **Les nouveaux tissus Mars 2023 !**
+
 Ils sont tous destinés à des extérieurs de banane, sauf le 30A qui est pour une doublure intérieure 
 {% capture images_carousel %}
 ![Nouveaux Tissus Mars 2023]({{site.baseurl}}/media/carousels/Nvo Tissus 1/nvo_tissus_032023.jpeg)
