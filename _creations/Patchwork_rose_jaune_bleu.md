@@ -15,6 +15,7 @@ Une poche principale, doublée de tissu coton gris/blanc.
 Une moyenne poche à l’arrière, format passeport, pour garder vos affaires précieuses tout contre vous.
 
 Une sangle noire, des boucles coulissantes en métal doré.
+
 Dimensions : 32x14x7,5cm
 
 Banane n°27
