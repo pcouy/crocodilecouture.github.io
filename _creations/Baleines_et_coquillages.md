@@ -6,6 +6,15 @@ miniature: ouverte
 published: false
 title: Baleines et Coquillages
 ---
-## A New Post
+🌸✨Découvrez la banane Baleines et Coquillages✨🌸
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+Une commande spéciale pour une grande voyageuse !
+
+Le maintenant fameux tissu matelassé Baleines pour l’extérieur, tout moelleux, tout confortable !
+Et pour l’intérieur, un tissu soyeux avec des imprimés rappelant les fonds marins. 
+
+Une grande poche principale et une moyenne poche à l’arrière, format passeport, pour garder vos affaires précieuses tout contre vous.
+
+Une sangle noire, des boucles coulissantes en métal doré.
+Dimensions : 32x14x7,5cm
+✨🌸
