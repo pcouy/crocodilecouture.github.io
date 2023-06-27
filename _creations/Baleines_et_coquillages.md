@@ -6,6 +6,7 @@ miniature: ouverte
 published: false
 title: Baleines et Coquillages
 ---
+
 🌸✨Découvrez la banane Baleines et Coquillages✨🌸
 
 Une commande spéciale pour une grande voyageuse !
@@ -17,4 +18,7 @@ Une grande poche principale et une moyenne poche à l’arrière, format passepo
 
 Une sangle noire, des boucles coulissantes en métal doré.
 Dimensions : 32x14x7,5cm
+
+Banane n°26
+
 ✨🌸
