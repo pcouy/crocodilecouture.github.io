@@ -6,6 +6,16 @@ miniature: ouverte
 published: false
 title: Patchwork Rose Jaune Bleu
 ---
-## A New Post
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+🌸✨Découvrez la banane patchwork Rose Jaune Bleu✨🌸
+
+Un sac banane multi-matière, dynamique et élégant ! Elle se compose de tissus neufs, dont des chutes mais aussi de tissus ré-employés, comme ici le bleu vif, qui fut un manteau dans une autre vie !
+
+Une poche principale, doublée de tissu coton gris/blanc.
+Une moyenne poche à l’arrière, format passeport, pour garder vos affaires précieuses tout contre vous.
+
+Une sangle noire, des boucles coulissantes en métal doré.
+Dimensions : 32x14x7,5cm
+
+Banane n°27
+✨🌸
