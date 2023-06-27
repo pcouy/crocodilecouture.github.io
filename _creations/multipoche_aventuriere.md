@@ -3,7 +3,7 @@ layout: creation
 date: '2023-06-27 10:40 +0200'
 available: false
 miniature: ouverte
-published: false
+published: true
 title: Multipoche aventurière
 ---
 
@@ -17,4 +17,3 @@ Dimensions : 32x14x7,5cm
 
 Banane n°29
 ✨🌸
-
