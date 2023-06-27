@@ -3,7 +3,7 @@ layout: creation
 date: '2023-06-27 10:38 +0200'
 available: false
 miniature: ouverte
-published: false
+published: true
 title: Baleines et Coquillages
 ---
 
