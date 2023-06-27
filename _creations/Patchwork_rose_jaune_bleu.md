@@ -3,7 +3,7 @@ layout: creation
 date: '2023-06-27 10:13 +0200'
 available: true
 miniature: ouverte
-published: false
+published: true
 title: Patchwork Rose Jaune Bleu
 ---
 
