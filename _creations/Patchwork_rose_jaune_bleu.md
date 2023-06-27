@@ -9,7 +9,8 @@ title: Patchwork Rose Jaune Bleu
 
 🌸✨Découvrez la banane patchwork Rose Jaune Bleu✨🌸
 
-Un sac banane multi-matière, dynamique et élégant ! Elle se compose de tissus neufs, dont des chutes mais aussi de tissus ré-employés, comme ici le bleu vif, qui fut un manteau dans une autre vie !
+Un sac banane multi-matière, dynamique et élégant ! 
+Elle se compose de tissus neufs, dont des chutes mais aussi de tissus ré-employés, comme ici le bleu vif, qui fut un manteau dans une autre vie !
 
 Une poche principale, doublée de tissu coton gris/blanc.
 Une moyenne poche à l’arrière, format passeport, pour garder vos affaires précieuses tout contre vous.
