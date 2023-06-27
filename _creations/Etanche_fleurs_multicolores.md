@@ -3,7 +3,7 @@ layout: creation
 date: '2023-06-27 10:41 +0200'
 available: false
 miniature: ouverte
-published: false
+published: true
 title: Étanche à fleurs multicolores
 ---
 
@@ -26,4 +26,3 @@ Banane n°30
 💧✨
 
 Malheureusement, ce type de banane étanche n'est plus disponible à la commande, je ne dispose pas du matériel adéquat pour coudre des matériaux si épais.
-
