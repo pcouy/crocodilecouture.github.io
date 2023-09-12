@@ -6,6 +6,13 @@ miniature: ouverte
 published: false
 title: Banane plate aux jonquilles
 ---
-## A New Post
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+🌸✨Découvrez la banane plate aux jonquilles ✨🌸
+
+Nouveau défi pour la réalisation de cette banane : une banane plate, assez grande pour pouvoir y mettre un téléphone et des clés ! 
+
+Pour célébrer le soleil, on mise sur un patchwork de couleurs vives COULEURS. De jolis perroquets multicolores se trouvent sur la doublure intérieure, de quoi donner encore un peu plus de peps à cette nouvelle création ! 
+
+Une sangle noire, des boucles coulissantes en métal doré.
+
+✨🌸
