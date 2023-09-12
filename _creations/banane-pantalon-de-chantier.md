@@ -2,7 +2,7 @@
 layout: creation
 date: '2023-09-12 14:56 +0200'
 available: true
-miniature: ouverte
+miniature: face
 published: true
 title: Banane Pantalon de Chantier
 ---
