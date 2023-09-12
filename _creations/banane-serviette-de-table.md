@@ -3,7 +3,7 @@ layout: creation
 date: '2023-09-12 14:59 +0200'
 available: false
 miniature: ouverte
-published: false
+published: true
 title: Banane Serviette de Table
 ---
 
