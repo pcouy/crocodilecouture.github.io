@@ -21,4 +21,3 @@ Une sangle noire, des boucles coulissantes en métal doré.
 Dimensions : 32x14x7,5cm
 
 ✨🌸
-
