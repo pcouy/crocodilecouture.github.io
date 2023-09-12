@@ -4,10 +4,10 @@ date: '2023-09-12 14:56 +0200'
 available: true
 miniature: ouverte
 published: false
-title: Banane Pantalon de chantier
+title: Banane Pantalon de Chantier
 ---
 
-🌸✨Découvrez la banane Pantalon de chantier✨🌸
+🌸✨Découvrez la banane Pantalon de Chantier✨🌸
 
 Un sac banane méga solide, réalisé à partir d’un pantalon de chantier.
 
