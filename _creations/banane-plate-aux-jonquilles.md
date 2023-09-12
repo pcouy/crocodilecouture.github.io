@@ -1,8 +1,8 @@
 ---
 layout: creation
 date: '2023-09-12 14:51 +0200'
-available: true
-miniature: ouverte
+available: false
+miniature: face
 published: true
 title: Banane plate aux jonquilles
 ---
