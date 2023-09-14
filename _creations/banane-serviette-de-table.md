@@ -2,8 +2,8 @@
 layout: creation
 date: '2023-09-12 14:59 +0200'
 available: false
-miniature: ouverte
-published: false
+miniature: face
+published: true
 title: Banane Serviette de Table
 ---
 
@@ -21,4 +21,3 @@ Une sangle noire, des boucles coulissantes en métal doré.
 Dimensions : 32x14x7,5cm
 
 ✨🌸
-

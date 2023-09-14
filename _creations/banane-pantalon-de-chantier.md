@@ -2,8 +2,8 @@
 layout: creation
 date: '2023-09-12 14:56 +0200'
 available: true
-miniature: ouverte
-published: false
+miniature: face
+published: true
 title: Banane Pantalon de Chantier
 ---
 
@@ -18,3 +18,5 @@ Une sangle noire, des boucles coulissantes en métal doré.
 Dimensions : 32x14x7,5cm
  
 ✨🌸
+
+Prix : 89€ TTC
