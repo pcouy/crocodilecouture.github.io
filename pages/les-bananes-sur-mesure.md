@@ -106,7 +106,6 @@ Ils sont tous destinés à des extérieurs de banane, sauf le 30A qui est pour u
 **Autres tissus intérieurs**
 {% capture images_carouseld %}
 ![Tissus Intérieurs 1/2]({{site.baseurl}}/media/carousels/Int 1/TissuInt2(1).jpg)
-
 ![16A]({{site.baseurl}}/media/carousels/Int 1/16A.jpg)
 ![17A]({{site.baseurl}}/media/carousels/Int 1/17A.jpg)
 ![18A]({{site.baseurl}}/media/carousels/Int 1/18A.jpg)
