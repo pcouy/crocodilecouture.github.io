@@ -15,6 +15,7 @@ if (!window.carousel_init) {
             figure.append(caption);
             return figure;
         });
+        carousel.figures = wrapped_pictures;
         let placeholder = document.createElement("figure");
         placeholder.classList.add("carousel-placeholder");
 
@@ -38,6 +39,28 @@ if (!window.carousel_init) {
         let init = false;
         let running = false;
 
+        let update_controls = () => {
+            if (current_index === 0) {
+                carousel.querySelectorAll(".carousel-prev").forEach(button=>{
+                    button.classList.add("hide")
+                });
+            } else {
+                carousel.querySelectorAll(".carousel-prev").forEach(button=>{
+                    button.classList.remove("hide")
+                });
+            }
+
+            if (current_index === wrapped_pictures.length - 1) {
+                carousel.querySelectorAll(".carousel-next").forEach(button=>{
+                    button.classList.add("hide")
+                });
+            } else {
+                carousel.querySelectorAll(".carousel-next").forEach(button=>{
+                    button.classList.remove("hide")
+                });
+            }
+        };
+
         let update_dom = (e) => {
             if (e !== undefined) {
                 e.preventDefault();
@@ -58,25 +81,7 @@ if (!window.carousel_init) {
                 }
             }
 
-            if (current_index === 0) {
-                carousel.querySelectorAll(".carousel-prev").forEach(button=>{
-                    button.classList.add("hide")
-                });
-            } else {
-                carousel.querySelectorAll(".carousel-prev").forEach(button=>{
-                    button.classList.remove("hide")
-                });
-            }
-
-            if (current_index === wrapped_pictures.length - 1) {
-                carousel.querySelectorAll(".carousel-next").forEach(button=>{
-                    button.classList.add("hide")
-                });
-            } else {
-                carousel.querySelectorAll(".carousel-next").forEach(button=>{
-                    button.classList.remove("hide")
-                });
-            }
+            update_controls();
 
             let animation_class = (direction === "next" ? "left-animated" : "right-animated");
             let other_animation_class = (direction === "prev" ? "left-animated" : "right-animated");
@@ -163,28 +168,58 @@ if (!window.carousel_init) {
         carousel.querySelectorAll(".carousel-next,.carousel-prev").forEach(control => {
             control.addEventListener("click", update_dom);
         });
-        carousel.querySelectorAll(".carousel-first").forEach(control => {
-            control.addEventListener("click", (e)=>{
+
+        carousel.goto_first_picture = (e) => {
+            if (e !== undefined) {
                 e.preventDefault();
-                let animation_step = 0;
-                let carousel_container = carousel.querySelector(".carousel-container");
-                carousel_container.classList.add("carousel-quick");
-                let go_to_first_cb = () => {
-                    animation_step++;
-                    console.log("Animation step : ", animation_step);
-                    if (animation_step % 2 === 0) {
-                        console.log("Current index : ", current_index);
-                        if (current_index !== 0) {
-                            setTimeout(()=>carousel.querySelector(".carousel-prev").click(),10);
-                        } else {
-                            carousel_container.classList.remove("carousel-quick");
-                            carousel_container.removeEventListener("animationend", go_to_first_cb);
-                        }
+            }
+            let animation_step = 0;
+            let carousel_container = carousel.querySelector(".carousel-container");
+            carousel_container.classList.add("carousel-quick");
+            let go_to_first_cb = () => {
+                animation_step++;
+                console.log("Animation step : ", animation_step);
+                if (animation_step % 2 === 0) {
+                    console.log("Current index : ", current_index);
+                    if (current_index !== 0) {
+                        setTimeout(()=>carousel.querySelector(".carousel-prev").click(),10);
+                    } else {
+                        carousel_container.classList.remove("carousel-quick");
+                        carousel_container.removeEventListener("animationend", go_to_first_cb);
                     }
-                };
-                carousel_container.addEventListener("animationend", go_to_first_cb);
-            });
+                }
+            };
+            carousel_container.addEventListener("animationend", go_to_first_cb);
+        }
+
+        carousel.querySelectorAll(".carousel-first").forEach(control => {
+            control.addEventListener("click", carousel.goto_first_picture);
         });
+
+	carousel.goto_picture = target_index => {
+            let carousel_container = carousel.querySelector(".carousel-container");
+            carousel.querySelectorAll("figure").forEach( picture=>picture.remove() );
+            placeholder.remove();
+	    carousel.figures.forEach((picture, index) => {
+                if (index == target_index) {
+                    picture.classList.add("carousel-active");
+                } else if (picture.classList.contains("carousel-active")) {
+                    picture.classList.remove("carousel-active");
+                }
+	    });
+
+            if (target_index === 0) carousel_container.append(placeholder);
+            else carousel_container.append(carousel.figures[target_index-1]);
+
+            carousel_container.append(carousel.figures[target_index]);
+
+            if (target_index === carousel.figures.length - 1) carousel_container.append(placeholder);
+            else carousel_container.append(carousel.figures[target_index + 1]);
+
+            current_index = target_index;
+            update_controls();
+        }
+
         update_dom();
     });
 }
