@@ -1,14 +1,14 @@
 <section class="mosaic">
-    <div class="mosaic-container">
-        {{ include.images | markdownify }}
-    </div>
     <div class="mosaic-overlay">
         <div class="overlay-background">
-            <nav class="bigbutton overlay-close"><a><i class="fa fa-close" aria-hidden="true"></i></a></nav>
         </div>
         <div class="mosaic-carousel">
+            <nav class="bigbutton overlay-close"><a><i class="fa fa-close" aria-hidden="true"></i></a></nav>
             {% include carousel.html images=include.images %}
         </div>
+    </div>
+    <div class="mosaic-container">
+        {{ include.images | markdownify }}
     </div>
 </section>
 
