@@ -196,17 +196,17 @@ if (!window.carousel_init) {
             control.addEventListener("click", carousel.goto_first_picture);
         });
 
-	carousel.goto_picture = target_index => {
+        carousel.goto_picture = target_index => {
             let carousel_container = carousel.querySelector(".carousel-container");
             carousel.querySelectorAll("figure").forEach( picture=>picture.remove() );
             placeholder.remove();
-	    carousel.figures.forEach((picture, index) => {
+            carousel.figures.forEach((picture, index) => {
                 if (index == target_index) {
                     picture.classList.add("carousel-active");
                 } else if (picture.classList.contains("carousel-active")) {
                     picture.classList.remove("carousel-active");
                 }
-	    });
+            });
 
             if (target_index === 0) carousel_container.append(placeholder);
             else carousel_container.append(carousel.figures[target_index-1]);

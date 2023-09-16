@@ -12,7 +12,8 @@ if(!window.mosaic_init) {
         let carousel = mosaic.querySelector("section.carousel");
         carousel.querySelector(".carousel-first").classList.add("hidden");
         images.forEach(function(image, index) {
-            image.loading = "eager";
+            image.width = 100;
+            image.height = image.width;
             image.addEventListener("click", () => {
                 carousel.goto_picture(index);
                 overlay.classList.add("show");
