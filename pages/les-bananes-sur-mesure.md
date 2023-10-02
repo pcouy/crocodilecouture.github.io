@@ -72,6 +72,9 @@ Cliquez sur les différents tissus pour agrandir les images et afficher les réf
 ![32B.jpg]({{site.baseurl}}/media/32B.jpg)
 ![33B.jpg]({{site.baseurl}}/media/33B.jpg)
 ![34B.jpg]({{site.baseurl}}/media/34B.jpg)
+![35B.jpg]({{site.baseurl}}/media/35B.jpg)
+![36B.jpg]({{site.baseurl}}/media/36B.jpg)
+
 {% endcapture %}
 {% include mosaic.html images=tissusext %}
 
@@ -106,6 +109,9 @@ Cliquez sur les différents tissus pour agrandir les images et afficher les réf
 ![33A.jpg]({{site.baseurl}}/media/33A.jpg)
 ![34A.jpg]({{site.baseurl}}/media/34A.jpg)
 ![35A.jpg]({{site.baseurl}}/media/35A.jpg)
+![36A.jpg]({{site.baseurl}}/media/36A.jpg)
+![37A.jpg]({{site.baseurl}}/media/37A.jpg)
+
 {% endcapture %}
 {% include mosaic.html images=tissusint %}
 
