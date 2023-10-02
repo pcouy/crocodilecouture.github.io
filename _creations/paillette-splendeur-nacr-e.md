@@ -3,7 +3,7 @@ layout: creation
 date: '2023-10-02 10:52 +0200'
 available: true
 miniature: ouverte
-published: false
+published: true
 title: Banane Paillettes Splendeur Nacrée
 ---
 🌸✨Découvrez la banane Splendeur Nacrée✨🌸
