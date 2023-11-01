@@ -56,7 +56,6 @@ Cliquez sur les différents tissus pour agrandir les images et afficher les réf
 ![14B]({{site.baseurl}}/media/carousels/Ext1/14B.jpg)
 ![15B]({{site.baseurl}}/media/carousels/Ext1/15B.jpg)
 ![16B]({{site.baseurl}}/media/carousels/Ext1/16B.jpg)
-![17B]({{site.baseurl}}/media/carousels/Ext1/17B.jpg)
 ![18B]({{site.baseurl}}/media/carousels/Ext1/18B.jpg)
 ![19B]({{site.baseurl}}/media/carousels/Ext1/19B.jpg)
 ![20B]({{site.baseurl}}/media/carousels/Ext1/20B.jpg)
