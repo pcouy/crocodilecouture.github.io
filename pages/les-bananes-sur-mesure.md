@@ -96,7 +96,6 @@ Cliquez sur les différents tissus pour agrandir les images et afficher les réf
 ![20A]({{site.baseurl}}/media/carousels/Int 1/20A.jpg)
 ![21A]({{site.baseurl}}/media/carousels/Int 1/21A.jpg)
 ![23A]({{site.baseurl}}/media/carousels/Int 1/23A.jpg)
-![24A]({{site.baseurl}}/media/carousels/Int 1/24A.jpg)
 ![25A]({{site.baseurl}}/media/carousels/Int 1/25A.jpg)
 ![27A]({{site.baseurl}}/media/carousels/Int 1/27A.jpg)
 ![28A]({{site.baseurl}}/media/carousels/Int 1/28A.jpg)
