@@ -74,6 +74,9 @@ Cliquez sur les différents tissus pour agrandir les images et afficher les réf
 ![36B.jpg]({{site.baseurl}}/media/36B.jpg)
 ![37B.jpg]({{site.baseurl}}/media/37B.jpg)
 ![38B.jpg]({{site.baseurl}}/media/38B.jpg)
+![39B.jpg]({{site.baseurl}}/media/39B.jpg)
+![40B.jpg]({{site.baseurl}}/media/40B.jpg)
+
 
 {% endcapture %}
 {% include mosaic.html images=tissusext %}
