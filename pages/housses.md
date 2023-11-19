@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /
-published: false
+published: true
 title: Housses
 ---
 
@@ -14,5 +14,3 @@ title: Housses
 ![Photo 19-11-2023 15 36 21.jpg]({{site.baseurl}}/media/Photo 19-11-2023 15 36 21.jpg)
 ![PXL_20231119_143744745.jpg]({{site.baseurl}}/media/PXL_20231119_143744745.jpg)
 ![PXL_20231119_143853266.jpg]({{site.baseurl}}/media/PXL_20231119_143853266.jpg)
-
-
