@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /
+permalink: /housses
 published: true
 title: Housses
 ---
