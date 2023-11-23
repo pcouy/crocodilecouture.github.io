@@ -73,7 +73,7 @@ Cliquez sur les différents tissus pour agrandir les images et afficher les réf
 ![35B - Ancien short coton elasthanne]({{site.baseurl}}/media/35B.jpg)
 ![36B - Paillettes sur trame coton]({{site.baseurl}}/media/36B.jpg)
 ![37B - Ancienne nappe 50%coton 50%polyester]({{site.baseurl}}/media/37B.jpg)
-![38B - Matelassé Holographique]({{site.baseurl}}/media/38B.jpg)
+![38B - Matelassé Holographique]({{site.baseurl}}/media/1.jpg)
 ![39B - Jean]({{site.baseurl}}/media/39B.jpg)
 ![40B - Jean]({{site.baseurl}}/media/40B.jpg)
 
