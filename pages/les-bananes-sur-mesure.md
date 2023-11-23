@@ -68,14 +68,14 @@ Cliquez sur les différents tissus pour agrandir les images et afficher les réf
 ![30B]({{site.baseurl}}/media/30B.jpg)
 ![31B]({{site.baseurl}}/media/31B.jpg)
 ![32B]({{site.baseurl}}/media/32B.jpg)
-![33B]({{site.baseurl}}/media/33B.jpg)
-![34B]({{site.baseurl}}/media/34B.jpg)
-![35B]({{site.baseurl}}/media/35B.jpg)
-![36B]({{site.baseurl}}/media/36B.jpg)
-![37B]({{site.baseurl}}/media/37B.jpg)
-![38B]({{site.baseurl}}/media/38B.jpg)
-![39B]({{site.baseurl}}/media/39B.jpg)
-![40B]({{site.baseurl}}/media/40B.jpg)
+![33B - Ancienne jupe Jacquard]({{site.baseurl}}/media/33B.jpg)
+![34B - Ancienne jupe coton]({{site.baseurl}}/media/34B.jpg)
+![35B - Ancien short coton elasthanne]({{site.baseurl}}/media/35B.jpg)
+![36B - Paillettes sur trame coton]({{site.baseurl}}/media/36B.jpg)
+![37B - Ancienne nappe 50%coton 50%polyester]({{site.baseurl}}/media/37B.jpg)
+![38B - Matelassé Holographique]({{site.baseurl}}/media/38B.jpg)
+![39B - Jean]({{site.baseurl}}/media/39B.jpg)
+![40B - Jean]({{site.baseurl}}/media/40B.jpg)
 
 
 {% endcapture %}
@@ -110,7 +110,7 @@ Cliquez sur les différents tissus pour agrandir les images et afficher les réf
 ![35A]({{site.baseurl}}/media/35A.jpg)
 ![36A]({{site.baseurl}}/media/36A.jpg)
 ![37A]({{site.baseurl}}/media/37A.jpg)
-![38A]({{site.baseurl}}/media/38A.jpg)
+![38A - Ancienne housse de couette coton]({{site.baseurl}}/media/38A.jpg)
 
 {% endcapture %}
 {% include mosaic.html images=tissusint %}
