@@ -3,7 +3,7 @@ layout: creation
 date: '2023-11-29 11:04 +0100'
 available: false
 miniature: face
-published: false
+published: true
 title: Porte Gourde
 ---
 ✨❄️Découvrez la nouvelle innovation : la banane Porte Gourde❄️✨
