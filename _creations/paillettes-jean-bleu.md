@@ -6,6 +6,19 @@ miniature: ouverte
 published: false
 title: Paillettes Jean Bleu
 ---
-## A New Post
+✨❄️Découvrez la banane Paillettes Jean Bleu❄️✨
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+C’est reparti pour une banane à paillettes, cette fois-ci le tissu à paillettes est assorti à du jean bleu classique! 🎉☀️
+
+Une doublure intérieure fleurs pop pour encore plus de peps ! 
+
+Une poche principale et une moyenne poche à l’arrière, format passeport.
+Une sangle noire, des boucles coulissantes en métal doré.
+
+Banane n°34 
+
+Dimensions : 32x14x7,5cm
+
+Prix : 89€ TTC
+✨❄️
+
