@@ -2,7 +2,7 @@
 layout: creation
 date: '2023-11-29 09:44 +0100'
 available: true
-miniature: ouverte
+miniature: face
 published: true
 title: Patchwork Rose Turquoise Bleu
 ---
