@@ -3,7 +3,7 @@ layout: creation
 date: '2023-11-29 09:38 +0100'
 available: false
 miniature: ouverte
-published: false
+published: true
 title: Paillettes Jean Bleu
 ---
 ✨❄️Découvrez la banane Paillettes Jean Bleu❄️✨
@@ -21,4 +21,3 @@ Dimensions : 32x14x7,5cm
 
 Prix : 89€ TTC
 ✨❄️
-
