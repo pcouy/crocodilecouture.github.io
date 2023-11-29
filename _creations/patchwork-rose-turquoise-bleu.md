@@ -16,4 +16,9 @@ Cette banane se compose principalement de tissus ré-employés, comme le rose vi
 
 Une poche principale et une moyenne poche à l’arrière, format passeport, pour garder vos affaires précieuses tout contre vous, toutes deux doublées d’un tissu à oiseaux blancs.
 Une sangle noire, des boucles coulissantes en métal doré.
+
+Banane n°38 
+
 Dimensions : 32x14x7,5cm
+
+Prix : 89€ TTC
