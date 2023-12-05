@@ -18,9 +18,13 @@ Venez discuter avec [moi](mailto:crocodile.couture@gmail.com) pour préciser vot
 
 **Le modèle** 
 
-Je propose 2 modèles, le Moyen et le Mini
+Je propose 2 modèles de bananes classiques: le Moyen et le Mini
 
 Dimensions : Le Moyen : 30x16x7,5cm ; Le Mini : 20x12x6cm
+
+Je propose aussi un modèle spécial banane porte gourde 
+
+Dimensions : 32x20cm (pour une gourde de 7,5cm de diamètre max)
 
 **Mais aussi**
 
