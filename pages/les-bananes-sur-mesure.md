@@ -105,7 +105,6 @@ Cliquez sur les différents tissus pour agrandir les images et afficher les réf
 ![21A]({{site.baseurl}}/media/carousels/Int 1/21A.jpg)
 ![23A]({{site.baseurl}}/media/carousels/Int 1/23A.jpg)
 ![25A]({{site.baseurl}}/media/carousels/Int 1/25A.jpg)
-![27A]({{site.baseurl}}/media/carousels/Int 1/27A.jpg)
 ![29A]({{site.baseurl}}/media/carousels/Int 1/29A.jpeg)
 ![30A]({{site.baseurl}}/media/carousels/Nvo Tissus 1/30A.jpg)
 ![31A]({{site.baseurl}}/media/31A.jpg)
