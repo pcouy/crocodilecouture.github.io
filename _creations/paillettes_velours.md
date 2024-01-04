@@ -8,7 +8,7 @@ title: Paillettes Velours
 ---
 ✨❄️Découvrez la banane Paillettes Velours❄️✨
 
-C’est reparti pour une banane à paillettes, cette fois-ci la commande est de combiner ses paillettes avec un tissu velours gris tout doux 🐈♥️
+C’est reparti pour une banane à paillettes, cette fois-ci la commande est de combiner ces paillettes avec un tissu velours gris tout doux 🐈♥️
 
 Une doublure intérieure de fleurs vintages dans les tons vifs -une jupe dans une autre vie- pour ajouter encore un peu de merveilleux et le tour est joué ! 
 
