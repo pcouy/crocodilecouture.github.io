@@ -3,7 +3,7 @@ layout: creation
 date: '2024-01-04 09:30 +0100'
 available: false
 miniature: ouverte
-published: false
+published: true
 title: Paillettes Velours
 ---
 ✨❄️Découvrez la banane Paillettes Velours❄️✨
