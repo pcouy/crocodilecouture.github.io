@@ -1,7 +1,7 @@
 ---
 layout: creation
 date: '2023-03-10 09:26 +0100'
-available: false
+available: true
 miniature: ouverte
 published: true
 title: Banane Matelassée Baleine
