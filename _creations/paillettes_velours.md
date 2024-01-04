@@ -2,7 +2,7 @@
 layout: creation
 date: '2024-01-04 09:30 +0100'
 available: false
-miniature: ouverte
+miniature: face
 published: true
 title: Paillettes Velours
 ---
