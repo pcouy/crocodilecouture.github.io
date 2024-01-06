@@ -3,7 +3,7 @@ layout: creation
 date: '2024-01-06 14:30 +0100'
 available: false
 miniature: ouverte
-published: false
+published: true
 title: Fleurs Immortelles
 ---
 ✨🥀 Découvrez la Banane aux Fleurs Immortelles 🥀✨
