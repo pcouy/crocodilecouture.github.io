@@ -3,7 +3,7 @@ layout: creation
 date: '2024-01-23 16:48 +0100'
 available: false
 miniature: face
-published: false
+published: true
 title: Fantasque
 ---
 ✨☃️Découvrez la banane Fantasque☃️✨
