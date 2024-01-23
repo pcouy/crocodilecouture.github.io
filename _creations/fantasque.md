@@ -2,7 +2,7 @@
 layout: creation
 date: '2024-01-23 16:48 +0100'
 available: false
-miniature: ouverte
+miniature: face
 published: false
 title: Fantasque
 ---
@@ -26,4 +26,4 @@ Banane n°46
 
 Dimensions : 32x14x7,5cm
 
-Prix : 89€ TTC 
+Prix : 89€ TTC
