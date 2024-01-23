@@ -3,7 +3,7 @@ layout: creation
 date: '2024-01-23 16:49 +0100'
 available: false
 miniature: face
-published: false
+published: true
 title: Patchwork Bleu-Rouge-Bleu
 ---
 ✨❄Découvrez la banane Patchwork Bleu-Rouge-Bleu ❄️✨
