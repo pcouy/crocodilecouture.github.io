@@ -9,8 +9,9 @@ title: Fantasque
 ✨☃️Découvrez la banane Fantasque☃️✨
 
 Vous aimez les nappes, les fleurs, mais aussi les licornes,
+
 Vous regrettez qu’il ne reste pas une petite place pour des paillettes,
-Vous maniez les look décalés comme personne, 
+Vous maniez les look décalés comme personne,
 L’originalité et la fantasquerie ne vous font pas peur,
 Alors n’hésitez plus, cette banane est faite pour vous ! 
 
