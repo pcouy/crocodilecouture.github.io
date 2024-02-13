@@ -2,7 +2,7 @@
 layout: creation
 date: '2024-02-13 16:27 +0100'
 available: false
-miniature: ouverte
+miniature: face
 title: Banane Holographique
 ---
 ✨👻Découvrez la banane Holographique 👻✨
