@@ -3,7 +3,7 @@ layout: creation
 date: '2024-03-15 17:53 +0100'
 available: false
 miniature: ouverte
-title: Grande Banane et bébé Banane
+title: Grande Banane et Bébé Banane
 ---
 ✨🌸Découvrez Grande banane et Bébé banane🌸✨
 
