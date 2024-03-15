@@ -13,4 +13,3 @@ Elles se composent en partie de tissus ré-employés, comme ici le bleu vif, qui
 
 A très bientôt chez Crocodile Couture ! 🧵🪡 
 ✨🌸
-
