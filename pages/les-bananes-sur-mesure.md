@@ -45,7 +45,6 @@ Alors [viens commander ta banane](mailto:crocodile.couture@gmail.com) !
 **Les tissus extérieurs**
 Cliquez sur les différents tissus pour agrandir les images et afficher les références
 {% capture tissusext %}
-![2B]({{site.baseurl}}/media/carousels/EXT2/2B.jpg)
 ![3B]({{site.baseurl}}/media/carousels/EXT2/3B.jpg)
 ![4B]({{site.baseurl}}/media/carousels/EXT2/4B.jpg)
 ![6B]({{site.baseurl}}/media/carousels/EXT2/6B.jpg)
@@ -65,7 +64,6 @@ Cliquez sur les différents tissus pour agrandir les images et afficher les réf
 ![24B]({{site.baseurl}}/media/carousels/Nvo Tissus 1/24B.jpg)
 ![25B]({{site.baseurl}}/media/25B.jpg)
 ![26B]({{site.baseurl}}/media/26B.jpg)
-![27B]({{site.baseurl}}/media/27B.jpg)
 ![28B29B]({{site.baseurl}}/media/28B29B.jpg)
 ![30B]({{site.baseurl}}/media/30B.jpg)
 ![31B]({{site.baseurl}}/media/31B.jpg)
@@ -86,7 +84,7 @@ Cliquez sur les différents tissus pour agrandir les images et afficher les réf
 **Les tissus intérieurs**
 Cliquez sur les différents tissus pour agrandir les images et afficher les références
 {% capture tissusint %}
-![1A]({{site.baseurl}}/media/carousels/Int2/1A.jpg)
+![1A - C'est rose clair en vrai, mais ça se voit pas vraiment sur la photo]({{site.baseurl}}/media/carousels/Int2/1A.jpg)
 ![4A]({{site.baseurl}}/media/carousels/Int2/4A.jpg)
 ![5A]({{site.baseurl}}/media/carousels/Int2/5A.jpg)
 ![6A]({{site.baseurl}}/media/carousels/Int2/6A.jpg)
