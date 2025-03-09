@@ -7,7 +7,7 @@ published: true
 
 # Commander
 
-**LES COMMANDES SONT MALHEUREUSEMENT FERMEES
+**LES COMMANDES SUR MESURE SONT MALHEUREUSEMENT FERMEES
 Suivez moi sur Instagram pour la suite de mes aventures!**
 
 Les commandes se passent **par mail** [crocodile.couture@gmail.com](mailto:crocodile.couture@gmail.com).
