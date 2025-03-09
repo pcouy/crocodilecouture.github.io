@@ -7,10 +7,10 @@ published: true
 
 # Crocodile Couture
 
-**LES COMMANDES SUR MESURE SONT MALHEUREUSEMENT FERMEES
+**LES COMMANDES SUR MESURE SONT MALHEUREUSEMENT FERMEES**
 
 
-Suivez moi sur Instagram pour la suite de mes aventures!**
+**Suivez moi sur Instagram pour la suite de mes aventures!**
 
 Bienvenue chez Crocodile Couture, une marque indépendante de couture spécialisée dans la confection de sacs banane uniques et fabriqués à la main.
 
