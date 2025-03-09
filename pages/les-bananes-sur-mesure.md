@@ -111,6 +111,8 @@ Cliquez sur les différents tissus pour agrandir les images et afficher les réf
 ![36A]({{site.baseurl}}/media/36A.jpg)
 ![37A]({{site.baseurl}}/media/37A.jpg)
 ![38A - Ancienne housse de couette coton]({{site.baseurl}}/media/38A.jpg)
+![39A.jpeg]({{site.baseurl}}/media/39A.jpeg)
+
 
 {% endcapture %}
 {% include mosaic.html images=tissusint %}
