@@ -119,6 +119,7 @@ Cliquez sur les différents tissus pour agrandir les images et afficher les réf
 ![39A.jpeg]({{site.baseurl}}/media/39A.jpeg)
 ![40A.jpeg]({{site.baseurl}}/media/40A.jpeg)
 ![41A.jpeg]({{site.baseurl}}/media/41A.jpeg)
+![42A.jpeg]({{site.baseurl}}/media/42A.jpeg)
 ![43A.jpeg]({{site.baseurl}}/media/43A.jpeg)
 
 
