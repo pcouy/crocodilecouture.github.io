@@ -76,7 +76,10 @@ Cliquez sur les différents tissus pour agrandir les images et afficher les réf
 ![38B - Matelassé Holographique]({{site.baseurl}}/media/1.jpg)
 ![39B - Jean]({{site.baseurl}}/media/39B.jpg)
 ![40B - Jean]({{site.baseurl}}/media/40B.jpg)
+![41B.jpeg]({{site.baseurl}}/media/41B.jpeg)
 ![42B.jpeg]({{site.baseurl}}/media/42B.jpeg)
+![43B.jpeg]({{site.baseurl}}/media/43B.jpeg)
+
 
 
 
@@ -116,6 +119,7 @@ Cliquez sur les différents tissus pour agrandir les images et afficher les réf
 ![39A.jpeg]({{site.baseurl}}/media/39A.jpeg)
 ![40A.jpeg]({{site.baseurl}}/media/40A.jpeg)
 ![41A.jpeg]({{site.baseurl}}/media/41A.jpeg)
+
 
 
 {% endcapture %}
