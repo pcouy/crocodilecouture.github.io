@@ -4,6 +4,11 @@ permalink: /les-bananes-sur-mesure
 published: true
 title: Les bananes sur mesure
 ---
+
+**LES COMMANDES SUR MESURE SONT MALHEUREUSEMENT FERMEES
+Suivez moi sur Instagram pour la suite de mes aventures!**
+
+
 ## Les bananes sur mesure 
 
 Bienvenue sur la page des bananes sur mesure, là où tout est possible.
