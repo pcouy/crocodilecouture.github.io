@@ -76,6 +76,8 @@ Cliquez sur les différents tissus pour agrandir les images et afficher les réf
 ![38B - Matelassé Holographique]({{site.baseurl}}/media/1.jpg)
 ![39B - Jean]({{site.baseurl}}/media/39B.jpg)
 ![40B - Jean]({{site.baseurl}}/media/40B.jpg)
+![42B.jpeg]({{site.baseurl}}/media/42B.jpeg)
+
 
 
 {% endcapture %}
@@ -112,6 +114,8 @@ Cliquez sur les différents tissus pour agrandir les images et afficher les réf
 ![37A]({{site.baseurl}}/media/37A.jpg)
 ![38A - Ancienne housse de couette coton]({{site.baseurl}}/media/38A.jpg)
 ![39A.jpeg]({{site.baseurl}}/media/39A.jpeg)
+![40A.jpeg]({{site.baseurl}}/media/40A.jpeg)
+![41A.jpeg]({{site.baseurl}}/media/41A.jpeg)
 
 
 {% endcapture %}
